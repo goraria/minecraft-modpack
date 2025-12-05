@@ -1,0 +1,12 @@
+# blocks-pls.txt filter=lfs diff=lfs merge=lfs -text
+# states-pls.txt filter=lfs diff=lfs merge=lfs -text
+# mods/*.jar filter=lfs diff=lfs merge=lfs -text
+# mods/*.deactivation filter=lfs diff=lfs merge=lfs -text
+
+mods/zmedievalmusic* filter=lfs diff=lfs merge=lfs -object
+mods/ConquestReforged* filter=lfs diff=lfs merge=lfs -object
+mods/L_Enders_Cataclysm* filter=lfs diff=lfs merge=lfs -object
+# mods/blue_skies* filter=lfs diff=lfs merge=lfs -object
+# mods/minecolonies* filter=lfs diff=lfs merge=lfs -object
+# mods/TATOS* filter=lfs diff=lfs merge=lfs -object
+# mods/alexscaves* filter=lfs diff=lfs merge=lfs -object
