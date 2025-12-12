@@ -43758,6 +43758,259 @@
           "available": true,
           "parser": true,
           "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1286177,
+          "name": "Fallen Gems & Affixes",
+          "author": "Kayn",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/fallen-gems-affixes",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 1,
+              "name": "magic",
+              "shortName": "magic",
+              "nesting": 0
+            },
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 26,
+              "name": "mc_addons",
+              "shortName": "addons",
+              "nesting": 0
+            }
+          ],
+          "picture": 1170359,
+          "pictures": [
+            1141213,
+            1180332,
+            1206081,
+            1158358,
+            1141210,
+            1158359,
+            1206080,
+            1180333
+          ],
+          "lanName": "fallen-gems-affixes",
+          "version": {
+            "id": 6914468,
+            "name": "fallen_gems_affixes-1.20.1-1.2.9",
+            "updateDate": 1755858904000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "95dec156536feaaea0c8f6d514681e573c3af6b0",
+              "size": 643412,
+              "path": "mods/fallen_gems_affixes-1.20.1-1.2.9.jar",
+              "url": "/mods/1286177/6914468/fallen_gems_affixes-1.20.1-1.2.9.jar"
+            },
+            "installed": 321,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              },
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 1,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 4448,
+              "name": "Apotheosis",
+              "gameEntityId": 313970,
+              "dependencyType": "embedded"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1756069200000,
+          "update": 1756069200000,
+          "downloadALL": 490,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 812954,
+          "name": "Leo's Illagers",
+          "author": "leo4096",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/leos-illagers",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 2,
+              "name": "adventure_rpg",
+              "shortName": "rpg",
+              "nesting": 0
+            },
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            }
+          ],
+          "picture": 1029907,
+          "pictures": [
+            414625,
+            396856
+          ],
+          "lanName": "leos-illagers",
+          "version": {
+            "id": 6206843,
+            "name": "leosillagers-1.1.2-1.20.1",
+            "updateDate": 1739894101000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "9fc5a2c5e1e079a6276531b27471e1f16e5fb66b",
+              "size": 287988,
+              "path": "mods/leosillagers-1.1.2-1.20.1.jar",
+              "url": "/mods/812954/6206843/leosillagers-1.1.2-1.20.1.jar"
+            },
+            "installed": 2011,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 1,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 46,
+            "name": "1.20.1"
+          },
+          "updated": 1739826000000,
+          "update": 1739826000000,
+          "downloadALL": 5773,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "no_active",
+          "id": 1364850,
+          "name": "Elemental Synergies",
+          "author": "HazentouvelPrime",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/elemental-synergies",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 1,
+              "name": "magic",
+              "shortName": "magic",
+              "nesting": 0
+            },
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 26,
+              "name": "mc_addons",
+              "shortName": "addons",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 1248005,
+          "pictures": [
+            1248145,
+            1248146,
+            1248143,
+            1248144,
+            1248142
+          ],
+          "lanName": "elemental-synergies",
+          "version": {
+            "id": 7186435,
+            "name": "elemental_synergies-1.0.3-free-trial-edition",
+            "updateDate": 1762280756000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "4726bbced1aab1844f3e483a35e01cdeabcc838d",
+              "size": 476133,
+              "path": "mods/elemental_synergies-1.0.3-free-trial-edition.jar",
+              "url": "/mods/1364850/7186435/elemental_synergies-1.0.3-free-trial-edition.jar"
+            },
+            "installed": 25,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 1,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1762203600000,
+          "update": 1762203600000,
+          "downloadALL": 60,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
         }
       ],
       "resourcePacks": [
