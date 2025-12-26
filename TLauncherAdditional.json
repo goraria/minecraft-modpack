@@ -917,80 +917,6 @@
         },
         {
           "stateGameElement": "no_active",
-          "id": 551151,
-          "name": "Enchanting Infuser [Forge & Fabric]",
-          "author": "fuzs_",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser-forge",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 1,
-              "name": "magic",
-              "shortName": "magic",
-              "nesting": 0
-            },
-            {
-              "id": 4,
-              "name": "armor_weapons_tools",
-              "shortName": "military",
-              "nesting": 0
-            }
-          ],
-          "picture": 471961,
-          "pictures": [
-            268222,
-            268217,
-            268220,
-            268219,
-            268218,
-            268221,
-            268216,
-            268223
-          ],
-          "lanName": "enchanting-infuser-forge",
-          "version": {
-            "id": 4781977,
-            "name": "EnchantingInfuser-v8.0.2-1.20.1-Forge",
-            "updateDate": 1696428138000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 46,
-                "name": "1.20.1"
-              }
-            ],
-            "metadata": {
-              "sha1": "151d05918f0adbb44ee3ddf486668cf1df25c48f",
-              "size": 178348,
-              "path": "mods/EnchantingInfuser-v8.0.2-1.20.1-Forge.jar",
-              "url": "/mods/551151/4781977/EnchantingInfuser-v8.0.2-1.20.1-Forge.jar"
-            },
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 1,
-                "name": "forge"
-              }
-            ]
-          },
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [],
-          "lastGameVersion": {
-            "id": 49,
-            "name": "1.20.4"
-          },
-          "updated": 1705698000000,
-          "update": 1705698000000,
-          "downloadALL": 222010,
-          "available": true,
-          "parser": true,
-          "totalComments": 0,
-          "adult": false
-        },
-        {
-          "stateGameElement": "no_active",
           "id": 237366,
           "name": "ArmorPlus",
           "author": "sokratis12GR EPIIC_THUNDERCAT Tristaric Moritz30 TheDragonTeam",
@@ -4896,110 +4822,6 @@
           "updated": 1724112000000,
           "update": 1724112000000,
           "downloadALL": 266878,
-          "available": true,
-          "parser": true,
-          "totalComments": 0,
-          "adult": false
-        },
-        {
-          "stateGameElement": "active",
-          "id": 639842,
-          "name": "Better Combat [Fabric & Forge]",
-          "author": "daedelus_dev",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 55,
-              "name": "adventure_and_rpg",
-              "shortName": "roleplay",
-              "nesting": 0
-            },
-            {
-              "id": 4,
-              "name": "armor_weapons_tools",
-              "shortName": "military",
-              "nesting": 0
-            },
-            {
-              "id": 7,
-              "name": "library_api",
-              "shortName": "api",
-              "nesting": 0
-            }
-          ],
-          "picture": 787840,
-          "pictures": [
-            345618,
-            338000,
-            338001,
-            337999,
-            344603,
-            344602
-          ],
-          "lanName": "better-combat-by-daedelus",
-          "version": {
-            "id": 5625757,
-            "name": "bettercombat-forge-1.8.6+1.20.1",
-            "updateDate": 1723591124000,
-            "type": "beta",
-            "gameVersionsDTO": [
-              {
-                "id": 45,
-                "name": "1.20"
-              },
-              {
-                "id": 46,
-                "name": "1.20.1"
-              }
-            ],
-            "metadata": {
-              "sha1": "70c20cd81a4051b2ad4289ff6522e80b397d7b3d",
-              "size": 1050118,
-              "path": "mods/bettercombat-forge-1.8.6+1.20.1.jar",
-              "url": "/mods/639842/5625757/bettercombat-forge-1.8.6+1.20.1.jar"
-            },
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 1,
-                "name": "forge"
-              }
-            ]
-          },
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [
-            {
-              "gameType": "mod",
-              "id": 2,
-              "name": "Fabric API",
-              "gameEntityId": 306612,
-              "dependencyType": "required"
-            },
-            {
-              "gameType": "mod",
-              "id": 332,
-              "name": "Cloth Config API (FabricForgeNeoForge)",
-              "gameEntityId": 348521,
-              "dependencyType": "required"
-            },
-            {
-              "gameType": "mod",
-              "id": 3667,
-              "name": "playerAnimator",
-              "gameEntityId": 658587,
-              "dependencyType": "required"
-            }
-          ],
-          "lastGameVersion": {
-            "id": 53,
-            "name": "1.21.1"
-          },
-          "updated": 1726272000000,
-          "update": 1726272000000,
-          "downloadALL": 832309,
           "available": true,
           "parser": true,
           "totalComments": 0,
@@ -17629,185 +17451,6 @@
           "totalComments": 0
         },
         {
-          "stateGameElement": "active",
-          "id": 1110803,
-          "name": "Dark Doppelganger  Iron's Spells and Spellbooks Addon",
-          "author": "Bandit_Bytes",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/dark-doppelganger",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 1,
-              "name": "magic",
-              "shortName": "magic",
-              "nesting": 0
-            },
-            {
-              "id": 55,
-              "name": "adventure_and_rpg",
-              "shortName": "roleplay",
-              "nesting": 0
-            },
-            {
-              "id": 13,
-              "name": "world_mobs",
-              "shortName": "mobs",
-              "nesting": 0
-            }
-          ],
-          "picture": 989853,
-          "pictures": [
-            999383,
-            984059,
-            999382,
-            1104759,
-            1104760
-          ],
-          "lanName": "dark-doppelganger",
-          "version": {
-            "id": 6619700,
-            "name": "darkdoppelganger-9.3.2-1.20.1",
-            "updateDate": 1749175187000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 46,
-                "name": "1.20.1"
-              }
-            ],
-            "metadata": {
-              "sha1": "caa3f5a9d7968556a820350983ef2b4f1f1c6b8e",
-              "size": 4458561,
-              "path": "mods/darkdoppelganger-9.3.2-1.20.1.jar",
-              "url": "/mods/1110803/6619700/darkdoppelganger-9.3.2-1.20.1.jar"
-            },
-            "installed": 4961,
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 5,
-                "name": "neoForge"
-              },
-              {
-                "id": 1,
-                "name": "forge"
-              }
-            ]
-          },
-          "popularity": 1,
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [
-            {
-              "gameType": "mod",
-              "id": 5958,
-              "name": "Iron's Spells 'n Spellbooks",
-              "gameEntityId": 855414,
-              "dependencyType": "required"
-            },
-            {
-              "gameType": "mod",
-              "id": 9,
-              "name": "Curios API (ForgeNeoForge)",
-              "gameEntityId": 309927,
-              "dependencyType": "required"
-            },
-            {
-              "gameType": "mod",
-              "id": 3667,
-              "name": "playerAnimator",
-              "gameEntityId": 658587,
-              "dependencyType": "required"
-            },
-            {
-              "gameType": "mod",
-              "id": 169,
-              "name": "GeckoLib",
-              "gameEntityId": 388172,
-              "dependencyType": "required"
-            }
-          ],
-          "lastGameVersion": {
-            "id": 54,
-            "name": "1.21.2"
-          },
-          "updated": 1750280400000,
-          "update": 1750280400000,
-          "downloadALL": 8200,
-          "available": true,
-          "parser": true,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
-          "id": 1253824,
-          "name": "Gambler Illager - Iron's Spells and Spellbooks Addon",
-          "author": "min01",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/gambler-illager-irons-spells-and-spellbooks-addon",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 13,
-              "name": "world_mobs",
-              "shortName": "mobs",
-              "nesting": 0
-            }
-          ],
-          "picture": 1139848,
-          "pictures": [],
-          "lanName": "gambler-illager-irons-spells-and-spellbooks-addon",
-          "version": {
-            "id": 6957613,
-            "name": "gambler-1.0.0",
-            "updateDate": 1756860316000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 46,
-                "name": "1.20.1"
-              }
-            ],
-            "metadata": {
-              "sha1": "900c927286b84ff63444c34df0d2f41bced917a2",
-              "size": 55411,
-              "path": "mods/gambler-1.0.0.jar",
-              "url": "/mods/1253824/6957613/gambler-1.0.0.jar"
-            },
-            "installed": 146,
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 1,
-                "name": "forge"
-              }
-            ]
-          },
-          "popularity": 1,
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [
-            {
-              "gameType": "mod",
-              "id": 5958,
-              "name": "Iron's Spells 'n Spellbooks",
-              "gameEntityId": 855414,
-              "dependencyType": "required"
-            }
-          ],
-          "lastGameVersion": {
-            "id": 46,
-            "name": "1.20.1"
-          },
-          "updated": 1756846800000,
-          "update": 1756846800000,
-          "downloadALL": 339,
-          "available": true,
-          "parser": true,
-          "totalComments": 0
-        },
-        {
           "stateGameElement": "no_active",
           "id": 1182089,
           "name": "Ward Ring Extension for Iron's Spells 'n Spellbooks (WRE)",
@@ -20488,113 +20131,6 @@
         },
         {
           "stateGameElement": "active",
-          "id": 645743,
-          "name": "Astral Dimension",
-          "author": "mrsculk",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/astral-dimension",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 17,
-              "name": "world_dimensions",
-              "shortName": "dimensions",
-              "nesting": 0
-            },
-            {
-              "id": 14,
-              "name": "world_biomes",
-              "shortName": "biomes",
-              "nesting": 0
-            },
-            {
-              "id": 13,
-              "name": "world_mobs",
-              "shortName": "mobs",
-              "nesting": 0
-            },
-            {
-              "id": 3,
-              "name": "cosmetic",
-              "shortName": "cosmetic",
-              "nesting": 0
-            }
-          ],
-          "picture": 1182724,
-          "pictures": [
-            1186440,
-            1186428,
-            604847,
-            1186427,
-            1186434,
-            1186439,
-            1186425,
-            1186437,
-            1186441,
-            1186435,
-            1186433,
-            1186426,
-            1186436,
-            1186429,
-            1186432,
-            1186424,
-            1186431,
-            1186430,
-            1186438
-          ],
-          "lanName": "astral-dimension",
-          "version": {
-            "id": 7034282,
-            "name": "Astral_1.9.2.1_1.20.1",
-            "updateDate": 1758864900000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 46,
-                "name": "1.20.1"
-              }
-            ],
-            "metadata": {
-              "sha1": "31f85fbd6c0d355b75aefd1c99b3d3cb7f51f222",
-              "size": 15544488,
-              "path": "mods/Astral_1.9.2.1_1.20.1.jar",
-              "url": "/mods/645743/7034282/Astral_1.9.2.1_1.20.1.jar"
-            },
-            "installed": 326,
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 1,
-                "name": "forge"
-              }
-            ]
-          },
-          "popularity": 1,
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [
-            {
-              "gameType": "mod",
-              "id": 169,
-              "name": "GeckoLib",
-              "gameEntityId": 388172,
-              "dependencyType": "required"
-            }
-          ],
-          "lastGameVersion": {
-            "id": 53,
-            "name": "1.21.1"
-          },
-          "updated": 1758834000000,
-          "update": 1758834000000,
-          "downloadALL": 7747,
-          "available": true,
-          "parser": true,
-          "totalComments": 0,
-          "adult": false
-        },
-        {
-          "stateGameElement": "active",
           "id": 312918,
           "name": "Blue Skies",
           "author": "KingPhygieBoo 115kino xJonL Silver_David",
@@ -21329,572 +20865,6 @@
           "updated": 1759438800000,
           "update": 1759438800000,
           "downloadALL": 3689,
-          "available": true,
-          "parser": true,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
-          "id": 1271707,
-          "name": "Qliphoth Awakening",
-          "author": "FINDERFEED",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/qliphoth-awakening",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 27,
-              "name": "world_structures",
-              "shortName": "structures",
-              "nesting": 0
-            },
-            {
-              "id": 13,
-              "name": "world_mobs",
-              "shortName": "mobs",
-              "nesting": 0
-            },
-            {
-              "id": 29,
-              "name": "world_gen",
-              "shortName": "world",
-              "nesting": 0
-            }
-          ],
-          "picture": 1216161,
-          "pictures": [
-            1142102,
-            1142101,
-            1216256,
-            1142103,
-            1142100
-          ],
-          "lanName": "qliphoth-awakening",
-          "version": {
-            "id": 7128982,
-            "name": "fdbosses-2.0.9-1.20.1",
-            "updateDate": 1760957309000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 46,
-                "name": "1.20.1"
-              }
-            ],
-            "metadata": {
-              "sha1": "5f97341b750e4c1994f2e1eb68afa2df9f5839f0",
-              "size": 21091043,
-              "path": "mods/fdbosses-2.0.9-1.20.1.jar",
-              "url": "/mods/1271707/7128982/fdbosses-2.0.9-1.20.1.jar"
-            },
-            "installed": 812,
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 5,
-                "name": "neoForge"
-              },
-              {
-                "id": 1,
-                "name": "forge"
-              }
-            ]
-          },
-          "popularity": 1,
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [
-            {
-              "gameType": "mod",
-              "id": 13629,
-              "name": "FDLib",
-              "gameEntityId": 1271749,
-              "dependencyType": "required"
-            }
-          ],
-          "lastGameVersion": {
-            "id": 53,
-            "name": "1.21.1"
-          },
-          "updated": 1759698000000,
-          "update": 1759698000000,
-          "downloadALL": 3681,
-          "available": true,
-          "parser": true,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
-          "id": 1089627,
-          "name": "LUMINOUS BEASTS",
-          "author": "RipleysMods",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/luminous-beasts",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 55,
-              "name": "adventure_and_rpg",
-              "shortName": "roleplay",
-              "nesting": 0
-            },
-            {
-              "id": 13,
-              "name": "world_mobs",
-              "shortName": "mobs",
-              "nesting": 0
-            }
-          ],
-          "picture": 1109819,
-          "pictures": [
-            916757,
-            916758,
-            916761,
-            916759,
-            916762,
-            916760
-          ],
-          "lanName": "luminous-beasts",
-          "version": {
-            "id": 6541623,
-            "name": "Luminous Beasts V1.2.51 - Forge 1.20.1",
-            "updateDate": 1747544280000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 46,
-                "name": "1.20.1"
-              }
-            ],
-            "metadata": {
-              "sha1": "c72c472afd7789d0276e550f88c506cc40cf85b8",
-              "size": 25975860,
-              "path": "mods/Luminous Beasts V1.2.51 - Forge 1.20.1.jar",
-              "url": "/mods/1089627/6541623/Luminous%20Beasts%20V1.2.51%20-%20Forge%201.20.1.jar"
-            },
-            "installed": 5379,
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 1,
-                "name": "forge"
-              }
-            ]
-          },
-          "popularity": 2,
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [
-            {
-              "gameType": "mod",
-              "id": 169,
-              "name": "GeckoLib",
-              "gameEntityId": 388172,
-              "dependencyType": "required"
-            }
-          ],
-          "lastGameVersion": {
-            "id": 53,
-            "name": "1.21.1"
-          },
-          "updated": 1747515600000,
-          "update": 1747515600000,
-          "downloadALL": 10712,
-          "available": true,
-          "parser": true,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
-          "id": 1078098,
-          "name": "LUMINOUS NETHER",
-          "author": "RipleysMods",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/luminous-nether",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 27,
-              "name": "world_structures",
-              "shortName": "structures",
-              "nesting": 0
-            },
-            {
-              "id": 55,
-              "name": "adventure_and_rpg",
-              "shortName": "roleplay",
-              "nesting": 0
-            },
-            {
-              "id": 14,
-              "name": "world_biomes",
-              "shortName": "biomes",
-              "nesting": 0
-            },
-            {
-              "id": 13,
-              "name": "world_mobs",
-              "shortName": "mobs",
-              "nesting": 0
-            }
-          ],
-          "picture": 1182108,
-          "pictures": [
-            899566,
-            1184820,
-            1184819,
-            1184818,
-            899567,
-            1184821
-          ],
-          "lanName": "luminous-nether",
-          "version": {
-            "id": 6895293,
-            "name": "Luminous Nether V1.3.1 - Forge 1.20.1",
-            "updateDate": 1755407910000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 46,
-                "name": "1.20.1"
-              }
-            ],
-            "metadata": {
-              "sha1": "e5f2c10f355d81a64d9176378854ef9b74af054a",
-              "size": 22531908,
-              "path": "mods/Luminous Nether V1.3.1 - Forge 1.20.1.jar",
-              "url": "/mods/1078098/6895293/Luminous%20Nether%20V1.3.1%20-%20Forge%201.20.1.jar"
-            },
-            "installed": 3506,
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 1,
-                "name": "forge"
-              }
-            ]
-          },
-          "popularity": 2,
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [
-            {
-              "gameType": "mod",
-              "id": 6459,
-              "name": "TerraBlender (NeoForge)",
-              "gameEntityId": 940057,
-              "dependencyType": "required"
-            },
-            {
-              "gameType": "mod",
-              "id": 7330,
-              "name": "Luminous Tag",
-              "gameEntityId": 1078066,
-              "dependencyType": "optional"
-            },
-            {
-              "gameType": "mod",
-              "id": 169,
-              "name": "GeckoLib",
-              "gameEntityId": 388172,
-              "dependencyType": "required"
-            }
-          ],
-          "lastGameVersion": {
-            "id": 53,
-            "name": "1.21.1"
-          },
-          "updated": 1755378000000,
-          "update": 1755378000000,
-          "downloadALL": 15259,
-          "available": true,
-          "parser": true,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
-          "id": 909107,
-          "name": "LUMINOUS OVERWORLD",
-          "author": "LuminousMod LuminousMod",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/luminous-overworld",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 55,
-              "name": "adventure_and_rpg",
-              "shortName": "roleplay",
-              "nesting": 0
-            },
-            {
-              "id": 13,
-              "name": "world_mobs",
-              "shortName": "mobs",
-              "nesting": 0
-            },
-            {
-              "id": 3,
-              "name": "cosmetic",
-              "shortName": "cosmetic",
-              "nesting": 0
-            },
-            {
-              "id": 24,
-              "name": "mc_food",
-              "shortName": "food",
-              "nesting": 0
-            }
-          ],
-          "picture": 1245680,
-          "pictures": [
-            535911,
-            536973,
-            535915,
-            535912,
-            536972,
-            536971,
-            536969,
-            536970,
-            536968
-          ],
-          "lanName": "luminous-overworld",
-          "version": {
-            "id": 7101431,
-            "name": "Luminous Overworld V1.5.3 - Forge 1.20.1",
-            "updateDate": 1760321076000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 46,
-                "name": "1.20.1"
-              }
-            ],
-            "metadata": {
-              "sha1": "bcd30818f5b49ccb25fb5be0910d74538f7e33d2",
-              "size": 23357080,
-              "path": "mods/Luminous Overworld V1.5.3 - Forge 1.20.1.jar",
-              "url": "/mods/909107/7101431/Luminous%20Overworld%20V1.5.3%20-%20Forge%201.20.1.jar"
-            },
-            "installed": 834,
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 1,
-                "name": "forge"
-              }
-            ]
-          },
-          "popularity": 2,
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [
-            {
-              "gameType": "mod",
-              "id": 7330,
-              "name": "Luminous Tag",
-              "gameEntityId": 1078066,
-              "dependencyType": "optional"
-            },
-            {
-              "gameType": "mod",
-              "id": 169,
-              "name": "GeckoLib",
-              "gameEntityId": 388172,
-              "dependencyType": "required"
-            }
-          ],
-          "lastGameVersion": {
-            "id": 53,
-            "name": "1.21.1"
-          },
-          "updated": 1760302800000,
-          "update": 1760302800000,
-          "downloadALL": 26285,
-          "available": true,
-          "parser": true,
-          "totalComments": 0,
-          "adult": false
-        },
-        {
-          "stateGameElement": "active",
-          "id": 1066090,
-          "name": "LUMINOUS MONSTERS",
-          "author": "RipleysMods",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/luminous-monsters",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 55,
-              "name": "adventure_and_rpg",
-              "shortName": "roleplay",
-              "nesting": 0
-            },
-            {
-              "id": 13,
-              "name": "world_mobs",
-              "shortName": "mobs",
-              "nesting": 0
-            },
-            {
-              "id": 3,
-              "name": "cosmetic",
-              "shortName": "cosmetic",
-              "nesting": 0
-            }
-          ],
-          "picture": 1237617,
-          "pictures": [
-            899761,
-            899758,
-            899757,
-            899759,
-            899760
-          ],
-          "lanName": "luminous-monsters",
-          "version": {
-            "id": 7062293,
-            "name": "Luminous Monsters V1.2.8 - Forge 1.20.1",
-            "updateDate": 1759510457000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 46,
-                "name": "1.20.1"
-              }
-            ],
-            "metadata": {
-              "sha1": "3025fc2d490f72668f1280211b5ce5ede6073b0e",
-              "size": 825004,
-              "path": "mods/Luminous Monsters V1.2.8 - Forge 1.20.1.jar",
-              "url": "/mods/1066090/7062293/Luminous%20Monsters%20V1.2.8%20-%20Forge%201.20.1.jar"
-            },
-            "installed": 570,
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 1,
-                "name": "forge"
-              }
-            ]
-          },
-          "popularity": 1,
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [
-            {
-              "gameType": "mod",
-              "id": 169,
-              "name": "GeckoLib",
-              "gameEntityId": 388172,
-              "dependencyType": "required"
-            }
-          ],
-          "lastGameVersion": {
-            "id": 53,
-            "name": "1.21.1"
-          },
-          "updated": 1760130000000,
-          "update": 1760130000000,
-          "downloadALL": 5974,
-          "available": true,
-          "parser": true,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
-          "id": 1280678,
-          "name": "Threateningly Mobs",
-          "author": "Tkhy",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/threateningly-mobs",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 55,
-              "name": "adventure_and_rpg",
-              "shortName": "roleplay",
-              "nesting": 0
-            },
-            {
-              "id": 4,
-              "name": "armor_weapons_tools",
-              "shortName": "military",
-              "nesting": 0
-            },
-            {
-              "id": 13,
-              "name": "world_mobs",
-              "shortName": "mobs",
-              "nesting": 0
-            }
-          ],
-          "picture": 1122308,
-          "pictures": [
-            1122825,
-            1122813,
-            1122824,
-            1122811,
-            1122820,
-            1122821,
-            1122816,
-            1122818,
-            1122819,
-            1122817,
-            1122827,
-            1122815,
-            1122823,
-            1122822,
-            1122826,
-            1122814,
-            1122812
-          ],
-          "lanName": "threateningly-mobs",
-          "version": {
-            "id": 6883060,
-            "name": "threateningly_mobs-1.0.9.7-forge-1.20.1",
-            "updateDate": 1755107102000,
-            "type": "beta",
-            "gameVersionsDTO": [
-              {
-                "id": 46,
-                "name": "1.20.1"
-              }
-            ],
-            "metadata": {
-              "sha1": "e115c271d46f1ad662a34aaee4b7bef24088506b",
-              "size": 7601621,
-              "path": "mods/threateningly_mobs-1.0.9.7-forge-1.20.1.jar",
-              "url": "/mods/1280678/6883060/threateningly_mobs-1.0.9.7-forge-1.20.1.jar"
-            },
-            "installed": 5300,
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 1,
-                "name": "forge"
-              }
-            ]
-          },
-          "popularity": 1,
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [
-            {
-              "gameType": "mod",
-              "id": 169,
-              "name": "GeckoLib",
-              "gameEntityId": 388172,
-              "dependencyType": "required"
-            }
-          ],
-          "lastGameVersion": {
-            "id": 46,
-            "name": "1.20.1"
-          },
-          "updated": 1755032400000,
-          "update": 1755032400000,
-          "downloadALL": 7717,
           "available": true,
           "parser": true,
           "totalComments": 0
@@ -25124,215 +24094,6 @@
         },
         {
           "stateGameElement": "active",
-          "id": 1337167,
-          "name": "Moog's Structure Lib",
-          "author": "finndog_123",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/moogs-structure-lib",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 27,
-              "name": "world_structures",
-              "shortName": "structures",
-              "nesting": 0
-            },
-            {
-              "id": 7,
-              "name": "library_api",
-              "shortName": "api",
-              "nesting": 0
-            }
-          ],
-          "picture": 1233986,
-          "pictures": [],
-          "lanName": "moogs-structure-lib",
-          "version": {
-            "id": 7035758,
-            "name": "moogs_structure_lib-1.0.1-1.20-1.20.4-forge",
-            "updateDate": 1758904915000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 46,
-                "name": "1.20.1"
-              },
-              {
-                "id": 45,
-                "name": "1.20"
-              }
-            ],
-            "metadata": {
-              "sha1": "805a03f9a16336cd380b2d38e27e7288787914fd",
-              "size": 6123940,
-              "path": "mods/moogs_structure_lib-1.0.1-1.20-1.20.4-forge.jar",
-              "url": "/mods/1337167/7035758/moogs_structure_lib-1.0.1-1.20-1.20.4-forge.jar"
-            },
-            "installed": 2988,
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 1,
-                "name": "forge"
-              }
-            ]
-          },
-          "popularity": 1,
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [],
-          "lastGameVersion": {
-            "id": 65,
-            "name": "1.21.10"
-          },
-          "updated": 1760043600000,
-          "update": 1760043600000,
-          "downloadALL": 6803,
-          "available": true,
-          "parser": true,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
-          "id": 656977,
-          "name": "MVS - Moog's Voyager Structures",
-          "author": "finn3253",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/moogs-voyager-structures",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 27,
-              "name": "world_structures",
-              "shortName": "structures",
-              "nesting": 0
-            },
-            {
-              "id": 55,
-              "name": "adventure_and_rpg",
-              "shortName": "roleplay",
-              "nesting": 0
-            },
-            {
-              "id": 3,
-              "name": "cosmetic",
-              "shortName": "cosmetic",
-              "nesting": 0
-            },
-            {
-              "id": 29,
-              "name": "world_gen",
-              "shortName": "world",
-              "nesting": 0
-            }
-          ],
-          "picture": 844202,
-          "pictures": [
-            433903,
-            433889,
-            433895,
-            433896,
-            433897,
-            433892,
-            433904,
-            433899,
-            433886,
-            433888,
-            433893,
-            433894,
-            433890,
-            433891,
-            433898,
-            433900,
-            433887,
-            433901,
-            433902
-          ],
-          "lanName": "moogs-voyager-structures",
-          "version": {
-            "id": 7120789,
-            "name": "MoogsVoyagerStructures-1.20-5.0.21",
-            "updateDate": 1760794052000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 51,
-                "name": "1.20.6"
-              },
-              {
-                "id": 50,
-                "name": "1.20.5"
-              },
-              {
-                "id": 49,
-                "name": "1.20.4"
-              },
-              {
-                "id": 48,
-                "name": "1.20.3"
-              },
-              {
-                "id": 47,
-                "name": "1.20.2"
-              },
-              {
-                "id": 46,
-                "name": "1.20.1"
-              },
-              {
-                "id": 45,
-                "name": "1.20"
-              }
-            ],
-            "metadata": {
-              "sha1": "0fd4ccc793730f65cd00cf9a5df38bbcf6130511",
-              "size": 2661366,
-              "path": "mods/MoogsVoyagerStructures-1.20-5.0.21.jar",
-              "url": "/mods/656977/7120789/MoogsVoyagerStructures-1.20-5.0.21.jar"
-            },
-            "installed": 2005,
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 5,
-                "name": "neoForge"
-              },
-              {
-                "id": 2,
-                "name": "fabric"
-              },
-              {
-                "id": 1,
-                "name": "forge"
-              }
-            ]
-          },
-          "popularity": 3,
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [
-            {
-              "gameType": "mod",
-              "id": 15483,
-              "name": "Moog's Structure Lib",
-              "gameEntityId": 1337167,
-              "dependencyType": "required"
-            }
-          ],
-          "lastGameVersion": {
-            "id": 65,
-            "name": "1.21.10"
-          },
-          "updated": 1760734800000,
-          "update": 1760734800000,
-          "downloadALL": 205088,
-          "available": true,
-          "parser": true,
-          "totalComments": 0,
-          "adult": false
-        },
-        {
-          "stateGameElement": "active",
           "id": 927064,
           "name": "All the Wizard Gear",
           "author": "Iron431 Iron431",
@@ -28466,154 +27227,6 @@
         },
         {
           "stateGameElement": "active",
-          "id": 1205196,
-          "name": "Mythic Origins",
-          "author": "Ellipog",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/mythic-origins",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 1,
-              "name": "magic",
-              "shortName": "magic",
-              "nesting": 0
-            },
-            {
-              "id": 55,
-              "name": "adventure_and_rpg",
-              "shortName": "roleplay",
-              "nesting": 0
-            },
-            {
-              "id": 26,
-              "name": "mc_addons",
-              "shortName": "addons",
-              "nesting": 0
-            }
-          ],
-          "picture": 1033414,
-          "pictures": [],
-          "lanName": "mythic-origins",
-          "version": {
-            "id": 6229051,
-            "name": "Mythic-Origins-1.0.2",
-            "updateDate": 1740387223000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 57,
-                "name": "1.21.4"
-              },
-              {
-                "id": 55,
-                "name": "1.21.3"
-              },
-              {
-                "id": 54,
-                "name": "1.21.2"
-              },
-              {
-                "id": 53,
-                "name": "1.21.1"
-              },
-              {
-                "id": 52,
-                "name": "1.21"
-              },
-              {
-                "id": 51,
-                "name": "1.20.6"
-              },
-              {
-                "id": 50,
-                "name": "1.20.5"
-              },
-              {
-                "id": 49,
-                "name": "1.20.4"
-              },
-              {
-                "id": 48,
-                "name": "1.20.3"
-              },
-              {
-                "id": 47,
-                "name": "1.20.2"
-              },
-              {
-                "id": 46,
-                "name": "1.20.1"
-              },
-              {
-                "id": 45,
-                "name": "1.20"
-              },
-              {
-                "id": 44,
-                "name": "1.19.4"
-              },
-              {
-                "id": 43,
-                "name": "1.19.3"
-              },
-              {
-                "id": 38,
-                "name": "1.19.2"
-              },
-              {
-                "id": 37,
-                "name": "1.19.1"
-              },
-              {
-                "id": 36,
-                "name": "1.19"
-              }
-            ],
-            "metadata": {
-              "sha1": "7a495be4dcec003ee145a6de3a7a85b2e1ee5ebb",
-              "size": 355401,
-              "path": "mods/Mythic-Origins-1.0.2.jar",
-              "url": "/mods/1205196/6229051/Mythic-Origins-1.0.2.jar"
-            },
-            "installed": 62220,
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 5,
-                "name": "neoForge"
-              },
-              {
-                "id": 2,
-                "name": "fabric"
-              },
-              {
-                "id": 1,
-                "name": "forge"
-              },
-              {
-                "id": 4,
-                "name": "quilt"
-              }
-            ]
-          },
-          "popularity": 2,
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [],
-          "lastGameVersion": {
-            "id": 57,
-            "name": "1.21.4"
-          },
-          "updated": 1740344400000,
-          "update": 1740344400000,
-          "downloadALL": 63618,
-          "available": true,
-          "parser": true,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
           "id": 1133244,
           "name": "Myths & Legends",
           "author": "oVinter",
@@ -29734,7 +28347,7 @@
           "totalComments": 0
         },
         {
-          "stateGameElement": "active",
+          "stateGameElement": "no_active",
           "id": 1335824,
           "name": "Cataclysm Spellbooks & BetterCombat - Compatibility",
           "author": "rymusov",
@@ -29807,99 +28420,6 @@
           "updated": 1756760400000,
           "update": 1756760400000,
           "downloadALL": 883,
-          "available": true,
-          "parser": true,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
-          "id": 1335102,
-          "name": "Cataclysm & BetterCombat - Compatibility",
-          "author": "rymusov",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/cataclysm-bettercombat-compatibility",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 1,
-              "name": "magic",
-              "shortName": "magic",
-              "nesting": 0
-            },
-            {
-              "id": 55,
-              "name": "adventure_and_rpg",
-              "shortName": "roleplay",
-              "nesting": 0
-            },
-            {
-              "id": 4,
-              "name": "armor_weapons_tools",
-              "shortName": "military",
-              "nesting": 0
-            },
-            {
-              "id": 26,
-              "name": "mc_addons",
-              "shortName": "addons",
-              "nesting": 0
-            }
-          ],
-          "picture": 1210579,
-          "pictures": [],
-          "lanName": "cataclysm-bettercombat-compatibility",
-          "version": {
-            "id": 6930188,
-            "name": "cataclysm_compat",
-            "updateDate": 1756209697000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 46,
-                "name": "1.20.1"
-              }
-            ],
-            "metadata": {
-              "sha1": "b5c9eba67f206f81927fbe9dfa01287c3b18f70f",
-              "size": 13427,
-              "path": "mods/cataclysm_compat.jar",
-              "url": "/mods/1335102/6930188/cataclysm_compat.jar"
-            },
-            "installed": 356,
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 1,
-                "name": "forge"
-              }
-            ]
-          },
-          "popularity": 1,
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [
-            {
-              "gameType": "mod",
-              "id": 4830,
-              "name": "L_Ender 's Cataclysm",
-              "gameEntityId": 551586,
-              "dependencyType": "required"
-            },
-            {
-              "gameType": "mod",
-              "id": 3641,
-              "name": "Better Combat [Fabric & Forge]",
-              "gameEntityId": 639842,
-              "dependencyType": "required"
-            }
-          ],
-          "lastGameVersion": {
-            "id": 53,
-            "name": "1.21.1"
-          },
-          "updated": 1756760400000,
-          "update": 1756760400000,
-          "downloadALL": 460,
           "available": true,
           "parser": true,
           "totalComments": 0
@@ -31153,181 +29673,6 @@
         },
         {
           "stateGameElement": "active",
-          "id": 312359,
-          "name": "Dawn Of Time",
-          "author": "dawnoftime_team Poulpynou TheGoldenWorld",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/dawn-of-time",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 23,
-              "name": "world_ores_resources",
-              "shortName": "ores",
-              "nesting": 0
-            },
-            {
-              "id": 55,
-              "name": "adventure_and_rpg",
-              "shortName": "roleplay",
-              "nesting": 0
-            },
-            {
-              "id": 3,
-              "name": "cosmetic",
-              "shortName": "cosmetic",
-              "nesting": 0
-            },
-            {
-              "id": 24,
-              "name": "mc_food",
-              "shortName": "food",
-              "nesting": 0
-            },
-            {
-              "id": 29,
-              "name": "world_gen",
-              "shortName": "world",
-              "nesting": 0
-            }
-          ],
-          "picture": 801460,
-          "pictures": [
-            542534,
-            542531,
-            542532,
-            542537,
-            542536,
-            542538,
-            542535,
-            542533
-          ],
-          "lanName": "dawn-of-time",
-          "version": {
-            "id": 7202862,
-            "name": "dawnoftimebuilder-forge-1.20.1-1.5.34",
-            "updateDate": 1762694184000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 46,
-                "name": "1.20.1"
-              }
-            ],
-            "metadata": {
-              "sha1": "a581eb047a688784a0dbbc2fffaf375e447062da",
-              "size": 2546686,
-              "path": "mods/dawnoftimebuilder-forge-1.20.1-1.5.34.jar",
-              "url": "/mods/312359/7202862/dawnoftimebuilder-forge-1.20.1-1.5.34.jar"
-            },
-            "installed": 127,
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 1,
-                "name": "forge"
-              }
-            ]
-          },
-          "popularity": 3,
-          "downloadMonth": 96,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [
-            {
-              "gameType": "mod",
-              "id": 5680,
-              "name": "Fusion (Connected Textures)",
-              "gameEntityId": 854949,
-              "dependencyType": "required"
-            }
-          ],
-          "lastGameVersion": {
-            "id": 65,
-            "name": "1.21.10"
-          },
-          "updated": 1762722000000,
-          "update": 1762722000000,
-          "downloadALL": 118155,
-          "available": true,
-          "parser": true,
-          "totalComments": 0,
-          "adult": false
-        },
-        {
-          "stateGameElement": "active",
-          "id": 1336105,
-          "name": "Monster Expansion",
-          "author": "Saksolm",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/monster-expansion",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 4,
-              "name": "armor_weapons_tools",
-              "shortName": "military",
-              "nesting": 0
-            },
-            {
-              "id": 13,
-              "name": "world_mobs",
-              "shortName": "mobs",
-              "nesting": 0
-            }
-          ],
-          "picture": 1212952,
-          "pictures": [
-            1259547,
-            1259546,
-            1259543,
-            1259545,
-            1259544,
-            1259542
-          ],
-          "lanName": "monster-expansion",
-          "version": {
-            "id": 7170001,
-            "name": "monsterexpansion-1.20.1-v0.5.0",
-            "updateDate": 1761909889000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 46,
-                "name": "1.20.1"
-              }
-            ],
-            "metadata": {
-              "sha1": "1f48514be3d34cb4f0e00fd51c0a7c2a39551308",
-              "size": 10849037,
-              "path": "mods/monsterexpansion-1.20.1-v0.5.0.jar",
-              "url": "/mods/1336105/7170001/monsterexpansion-1.20.1-v0.5.0.jar"
-            },
-            "installed": 694,
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 1,
-                "name": "forge"
-              }
-            ]
-          },
-          "popularity": 1,
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [],
-          "lastGameVersion": {
-            "id": 46,
-            "name": "1.20.1"
-          },
-          "updated": 1761858000000,
-          "update": 1761858000000,
-          "downloadALL": 2646,
-          "available": true,
-          "parser": true,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
           "id": 1105855,
           "name": "Knight Lib",
           "author": "xylonity",
@@ -31624,514 +29969,6 @@
           "updated": 1725742800000,
           "update": 1725742800000,
           "downloadALL": 1330,
-          "available": true,
-          "parser": true,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
-          "id": 950005,
-          "name": "Lios Overhauled Villages",
-          "author": "Liopyu Liopyu",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/lios-overhauled-villages",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 27,
-              "name": "world_structures",
-              "shortName": "structures",
-              "nesting": 0
-            },
-            {
-              "id": 29,
-              "name": "world_gen",
-              "shortName": "world",
-              "nesting": 0
-            }
-          ],
-          "picture": 846148,
-          "pictures": [
-            605379,
-            605373,
-            605378,
-            605375,
-            605383,
-            605384,
-            605370,
-            605376,
-            605380,
-            605381,
-            605382,
-            605377,
-            605371,
-            605374,
-            605372
-          ],
-          "lanName": "lios-overhauled-villages",
-          "version": {
-            "id": 6704870,
-            "name": "lios_overhauled_villages-1.18.2-1.21.6-v0.0.9",
-            "updateDate": 1751121087000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 63,
-                "name": "1.21.8"
-              },
-              {
-                "id": 62,
-                "name": "1.21.7"
-              },
-              {
-                "id": 61,
-                "name": "1.21.6"
-              },
-              {
-                "id": 59,
-                "name": "1.21.5"
-              },
-              {
-                "id": 57,
-                "name": "1.21.4"
-              },
-              {
-                "id": 55,
-                "name": "1.21.3"
-              },
-              {
-                "id": 54,
-                "name": "1.21.2"
-              },
-              {
-                "id": 53,
-                "name": "1.21.1"
-              },
-              {
-                "id": 52,
-                "name": "1.21"
-              },
-              {
-                "id": 51,
-                "name": "1.20.6"
-              },
-              {
-                "id": 50,
-                "name": "1.20.5"
-              },
-              {
-                "id": 49,
-                "name": "1.20.4"
-              },
-              {
-                "id": 48,
-                "name": "1.20.3"
-              },
-              {
-                "id": 47,
-                "name": "1.20.2"
-              },
-              {
-                "id": 46,
-                "name": "1.20.1"
-              },
-              {
-                "id": 45,
-                "name": "1.20"
-              },
-              {
-                "id": 44,
-                "name": "1.19.4"
-              },
-              {
-                "id": 43,
-                "name": "1.19.3"
-              },
-              {
-                "id": 38,
-                "name": "1.19.2"
-              },
-              {
-                "id": 37,
-                "name": "1.19.1"
-              },
-              {
-                "id": 36,
-                "name": "1.19"
-              },
-              {
-                "id": 35,
-                "name": "1.18.2"
-              }
-            ],
-            "metadata": {
-              "sha1": "95be0b987f6daa17da60e222a9d8226d7631fed5",
-              "size": 2686804,
-              "path": "mods/lios_overhauled_villages-1.18.2-1.21.6-v0.0.9.jar",
-              "url": "/mods/950005/6704870/lios_overhauled_villages-1.18.2-1.21.6-v0.0.9.jar"
-            },
-            "installed": 25581,
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 5,
-                "name": "neoForge"
-              },
-              {
-                "id": 2,
-                "name": "fabric"
-              },
-              {
-                "id": 1,
-                "name": "forge"
-              }
-            ]
-          },
-          "popularity": 2,
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [],
-          "lastGameVersion": {
-            "id": 63,
-            "name": "1.21.8"
-          },
-          "updated": 1751058000000,
-          "update": 1751058000000,
-          "downloadALL": 88025,
-          "available": true,
-          "parser": true,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
-          "id": 1280129,
-          "name": "Lios Hobbit Hill Village",
-          "author": "Liopyu",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/hobbit-hill-village",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 27,
-              "name": "world_structures",
-              "shortName": "structures",
-              "nesting": 0
-            },
-            {
-              "id": 55,
-              "name": "adventure_and_rpg",
-              "shortName": "roleplay",
-              "nesting": 0
-            }
-          ],
-          "picture": 1183774,
-          "pictures": [
-            1188780,
-            1188783,
-            1188787,
-            1188789,
-            1188788,
-            1188784,
-            1188785,
-            1188782,
-            1188781,
-            1188786
-          ],
-          "lanName": "hobbit-hill-village",
-          "version": {
-            "id": 7060031,
-            "name": "hobbit_hill_village-0.0.2",
-            "updateDate": 1759454596000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 64,
-                "name": "1.21.9"
-              },
-              {
-                "id": 63,
-                "name": "1.21.8"
-              },
-              {
-                "id": 62,
-                "name": "1.21.7"
-              },
-              {
-                "id": 61,
-                "name": "1.21.6"
-              },
-              {
-                "id": 59,
-                "name": "1.21.5"
-              },
-              {
-                "id": 57,
-                "name": "1.21.4"
-              },
-              {
-                "id": 55,
-                "name": "1.21.3"
-              },
-              {
-                "id": 54,
-                "name": "1.21.2"
-              },
-              {
-                "id": 53,
-                "name": "1.21.1"
-              },
-              {
-                "id": 52,
-                "name": "1.21"
-              },
-              {
-                "id": 51,
-                "name": "1.20.6"
-              },
-              {
-                "id": 50,
-                "name": "1.20.5"
-              },
-              {
-                "id": 49,
-                "name": "1.20.4"
-              },
-              {
-                "id": 48,
-                "name": "1.20.3"
-              },
-              {
-                "id": 47,
-                "name": "1.20.2"
-              },
-              {
-                "id": 46,
-                "name": "1.20.1"
-              },
-              {
-                "id": 45,
-                "name": "1.20"
-              },
-              {
-                "id": 44,
-                "name": "1.19.4"
-              },
-              {
-                "id": 43,
-                "name": "1.19.3"
-              },
-              {
-                "id": 38,
-                "name": "1.19.2"
-              },
-              {
-                "id": 37,
-                "name": "1.19.1"
-              },
-              {
-                "id": 36,
-                "name": "1.19"
-              }
-            ],
-            "metadata": {
-              "sha1": "cc7b675085ec2e05f17cf8e91b21952958e66a9b",
-              "size": 3755530,
-              "path": "mods/hobbit_hill_village-0.0.2.jar",
-              "url": "/mods/1280129/7060031/hobbit_hill_village-0.0.2.jar"
-            },
-            "installed": 2509,
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 5,
-                "name": "neoForge"
-              },
-              {
-                "id": 2,
-                "name": "fabric"
-              },
-              {
-                "id": 1,
-                "name": "forge"
-              }
-            ]
-          },
-          "popularity": 1,
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [],
-          "lastGameVersion": {
-            "id": 64,
-            "name": "1.21.9"
-          },
-          "updated": 1759438800000,
-          "update": 1759438800000,
-          "downloadALL": 6079,
-          "available": true,
-          "parser": true,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
-          "id": 1108728,
-          "name": "Lios Seafaring Dungeons",
-          "author": "Liopyu",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/lios-seafaring-dungeons",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 27,
-              "name": "world_structures",
-              "shortName": "structures",
-              "nesting": 0
-            }
-          ],
-          "picture": 949419,
-          "pictures": [
-            958088,
-            958097,
-            958091,
-            958092,
-            958089,
-            958095,
-            958096,
-            958087,
-            958093,
-            958094,
-            958090,
-            958086
-          ],
-          "lanName": "lios-seafaring-dungeons",
-          "version": {
-            "id": 6678641,
-            "name": "lios_seafaring_dungeons-1.18.2-1.21.6-v0.0.5",
-            "updateDate": 1750509529000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 63,
-                "name": "1.21.8"
-              },
-              {
-                "id": 62,
-                "name": "1.21.7"
-              },
-              {
-                "id": 61,
-                "name": "1.21.6"
-              },
-              {
-                "id": 59,
-                "name": "1.21.5"
-              },
-              {
-                "id": 57,
-                "name": "1.21.4"
-              },
-              {
-                "id": 55,
-                "name": "1.21.3"
-              },
-              {
-                "id": 54,
-                "name": "1.21.2"
-              },
-              {
-                "id": 53,
-                "name": "1.21.1"
-              },
-              {
-                "id": 52,
-                "name": "1.21"
-              },
-              {
-                "id": 51,
-                "name": "1.20.6"
-              },
-              {
-                "id": 50,
-                "name": "1.20.5"
-              },
-              {
-                "id": 49,
-                "name": "1.20.4"
-              },
-              {
-                "id": 48,
-                "name": "1.20.3"
-              },
-              {
-                "id": 47,
-                "name": "1.20.2"
-              },
-              {
-                "id": 46,
-                "name": "1.20.1"
-              },
-              {
-                "id": 45,
-                "name": "1.20"
-              },
-              {
-                "id": 44,
-                "name": "1.19.4"
-              },
-              {
-                "id": 43,
-                "name": "1.19.3"
-              },
-              {
-                "id": 38,
-                "name": "1.19.2"
-              },
-              {
-                "id": 37,
-                "name": "1.19.1"
-              },
-              {
-                "id": 36,
-                "name": "1.19"
-              },
-              {
-                "id": 35,
-                "name": "1.18.2"
-              }
-            ],
-            "metadata": {
-              "sha1": "37dce3758bfe635174bbaa288478b843cb3ede3f",
-              "size": 2741723,
-              "path": "mods/lios_seafaring_dungeons-1.18.2-1.21.6-v0.0.5.jar",
-              "url": "/mods/1108728/6678641/lios_seafaring_dungeons-1.18.2-1.21.6-v0.0.5.jar"
-            },
-            "installed": 4468,
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 5,
-                "name": "neoForge"
-              },
-              {
-                "id": 2,
-                "name": "fabric"
-              },
-              {
-                "id": 1,
-                "name": "forge"
-              }
-            ]
-          },
-          "popularity": 1,
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [],
-          "lastGameVersion": {
-            "id": 63,
-            "name": "1.21.8"
-          },
-          "updated": 1750453200000,
-          "update": 1750453200000,
-          "downloadALL": 8282,
           "available": true,
           "parser": true,
           "totalComments": 0
@@ -32945,104 +30782,6 @@
         },
         {
           "stateGameElement": "active",
-          "id": 1286233,
-          "name": "Dungeons And Combat x Iron's Spells",
-          "author": "skydude_",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/dungeons-and-combat-x-irons-spells",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 1,
-              "name": "magic",
-              "shortName": "magic",
-              "nesting": 0
-            },
-            {
-              "id": 55,
-              "name": "adventure_and_rpg",
-              "shortName": "roleplay",
-              "nesting": 0
-            },
-            {
-              "id": 4,
-              "name": "armor_weapons_tools",
-              "shortName": "military",
-              "nesting": 0
-            },
-            {
-              "id": 26,
-              "name": "mc_addons",
-              "shortName": "addons",
-              "nesting": 0
-            }
-          ],
-          "picture": 1129504,
-          "pictures": [
-            1256632,
-            1256633,
-            1256635,
-            1256634
-          ],
-          "lanName": "dungeons-and-combat-x-irons-spells",
-          "version": {
-            "id": 7175927,
-            "name": "dacxirons-1.5.2",
-            "updateDate": 1762039723000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 46,
-                "name": "1.20.1"
-              }
-            ],
-            "metadata": {
-              "sha1": "448fcb8b31266f5f112bfaa59ee5c31091d53df7",
-              "size": 412131,
-              "path": "mods/dacxirons-1.5.2.jar",
-              "url": "/mods/1286233/7175927/dacxirons-1.5.2.jar"
-            },
-            "installed": 1698,
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 1,
-                "name": "forge"
-              }
-            ]
-          },
-          "popularity": 2,
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [
-            {
-              "gameType": "mod",
-              "id": 5958,
-              "name": "Iron's Spells 'n Spellbooks",
-              "gameEntityId": 855414,
-              "dependencyType": "required"
-            },
-            {
-              "gameType": "mod",
-              "id": 13455,
-              "name": "Dungeons And Combat",
-              "gameEntityId": 1128235,
-              "dependencyType": "required"
-            }
-          ],
-          "lastGameVersion": {
-            "id": 46,
-            "name": "1.20.1"
-          },
-          "updated": 1761944400000,
-          "update": 1761944400000,
-          "downloadALL": 14888,
-          "available": true,
-          "parser": true,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
           "id": 1128235,
           "name": "Dungeons And Combat",
           "author": "tohirogosu",
@@ -33684,7 +31423,7 @@
           "adult": false
         },
         {
-          "stateGameElement": "active",
+          "stateGameElement": "no_active",
           "id": 957379,
           "name": "Zombies More",
           "author": "CaraAleatorio7",
@@ -38138,124 +35877,6 @@
         },
         {
           "stateGameElement": "active",
-          "id": 967466,
-          "name": "MNS - Moog's Nether Structures",
-          "author": "finndog_123",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/mns-moogs-nether-structures",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 27,
-              "name": "world_structures",
-              "shortName": "structures",
-              "nesting": 0
-            },
-            {
-              "id": 55,
-              "name": "adventure_and_rpg",
-              "shortName": "roleplay",
-              "nesting": 0
-            },
-            {
-              "id": 3,
-              "name": "cosmetic",
-              "shortName": "cosmetic",
-              "nesting": 0
-            },
-            {
-              "id": 29,
-              "name": "world_gen",
-              "shortName": "world",
-              "nesting": 0
-            }
-          ],
-          "picture": 845134,
-          "pictures": [],
-          "lanName": "mns-moogs-nether-structures",
-          "version": {
-            "id": 7159055,
-            "name": "MoogsNetherStructures-1.20-2.0.1",
-            "updateDate": 1761640730000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 51,
-                "name": "1.20.6"
-              },
-              {
-                "id": 50,
-                "name": "1.20.5"
-              },
-              {
-                "id": 49,
-                "name": "1.20.4"
-              },
-              {
-                "id": 48,
-                "name": "1.20.3"
-              },
-              {
-                "id": 47,
-                "name": "1.20.2"
-              },
-              {
-                "id": 46,
-                "name": "1.20.1"
-              },
-              {
-                "id": 45,
-                "name": "1.20"
-              }
-            ],
-            "metadata": {
-              "sha1": "3495f6e3f66b189bb8847161d17d8e163d0746eb",
-              "size": 1323204,
-              "path": "mods/MoogsNetherStructures-1.20-2.0.1.jar",
-              "url": "/mods/967466/7159055/MoogsNetherStructures-1.20-2.0.1.jar"
-            },
-            "installed": 1308,
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 5,
-                "name": "neoForge"
-              },
-              {
-                "id": 2,
-                "name": "fabric"
-              },
-              {
-                "id": 1,
-                "name": "forge"
-              }
-            ]
-          },
-          "popularity": 2,
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [
-            {
-              "gameType": "mod",
-              "id": 15483,
-              "name": "Moog's Structure Lib (moogs_structures)",
-              "gameEntityId": 1337167,
-              "dependencyType": "required"
-            }
-          ],
-          "lastGameVersion": {
-            "id": 65,
-            "name": "1.21.10"
-          },
-          "updated": 1761598800000,
-          "update": 1761598800000,
-          "downloadALL": 43405,
-          "available": true,
-          "parser": true,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
           "id": 1339737,
           "name": "MTR - Moog's Temples Reimagined",
           "author": "finndog_123",
@@ -39010,98 +36631,6 @@
           "updated": 1759093200000,
           "update": 1759093200000,
           "downloadALL": 137744,
-          "available": true,
-          "parser": true,
-          "totalComments": 0,
-          "adult": false
-        },
-        {
-          "stateGameElement": "active",
-          "id": 838411,
-          "name": "Supplementaries Squared",
-          "author": "plantspookable",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/supplementaries-squared",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 26,
-              "name": "mc_addons",
-              "shortName": "addons",
-              "nesting": 0
-            },
-            {
-              "id": 3,
-              "name": "cosmetic",
-              "shortName": "cosmetic",
-              "nesting": 0
-            }
-          ],
-          "picture": 823649,
-          "pictures": [
-            452880,
-            421470
-          ],
-          "lanName": "supplementaries-squared",
-          "version": {
-            "id": 7117685,
-            "name": "suppsquared-1.20-1.1.26",
-            "updateDate": 1760720226000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 46,
-                "name": "1.20.1"
-              }
-            ],
-            "metadata": {
-              "sha1": "d564561b2676a683799fe6c8d34999cc8c9d123a",
-              "size": 919557,
-              "path": "mods/suppsquared-1.20-1.1.26.jar",
-              "url": "/mods/838411/7117685/suppsquared-1.20-1.1.26.jar"
-            },
-            "installed": 1712,
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 1,
-                "name": "forge"
-              }
-            ]
-          },
-          "popularity": 2,
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [
-            {
-              "gameType": "mod",
-              "id": 2274,
-              "name": "Moonlight Lib",
-              "gameEntityId": 499980,
-              "dependencyType": "required"
-            },
-            {
-              "gameType": "mod",
-              "id": 2,
-              "name": "Fabric API",
-              "gameEntityId": 306612,
-              "dependencyType": "required"
-            },
-            {
-              "gameType": "mod",
-              "id": 2304,
-              "name": "Supplementaries",
-              "gameEntityId": 412082,
-              "dependencyType": "optional"
-            }
-          ],
-          "lastGameVersion": {
-            "id": 53,
-            "name": "1.21.1"
-          },
-          "updated": 1760907600000,
-          "update": 1760907600000,
-          "downloadALL": 59971,
           "available": true,
           "parser": true,
           "totalComments": 0,
@@ -42215,175 +39744,7 @@
           "totalComments": 0
         },
         {
-          "stateGameElement": "active",
-          "id": 1305942,
-          "name": "Nexus Layer",
-          "author": "BrikNex",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/nexus-layer",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 7,
-              "name": "library_api",
-              "shortName": "api",
-              "nesting": 0
-            }
-          ],
-          "picture": 1183538,
-          "pictures": [],
-          "lanName": "nexus-layer",
-          "version": {
-            "id": 7168905,
-            "name": "1.0.7",
-            "updateDate": 1761873425000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 46,
-                "name": "1.20.1"
-              }
-            ],
-            "metadata": {
-              "sha1": "07f9c8582613191aec2a775ac6c775d24d3fa32d",
-              "size": 304730,
-              "path": "mods/NexusLayer-1.0.7.jar",
-              "url": "/mods/1305942/7168905/NexusLayer-1.0.7.jar"
-            },
-            "installed": 428,
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 1,
-                "name": "forge"
-              }
-            ]
-          },
-          "popularity": 1,
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [
-            {
-              "gameType": "mod",
-              "id": 169,
-              "name": "GeckoLib",
-              "gameEntityId": 388172,
-              "dependencyType": "required"
-            }
-          ],
-          "lastGameVersion": {
-            "id": 46,
-            "name": "1.20.1"
-          },
-          "updated": 1761858000000,
-          "update": 1761858000000,
-          "downloadALL": 757,
-          "available": true,
-          "parser": true,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
-          "id": 1370939,
-          "name": "Fathomless Crimson (Tribute to Horror)",
-          "author": "BrikNex",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/fathomless-crimson",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 27,
-              "name": "world_structures",
-              "shortName": "structures",
-              "nesting": 0
-            },
-            {
-              "id": 55,
-              "name": "adventure_and_rpg",
-              "shortName": "roleplay",
-              "nesting": 0
-            },
-            {
-              "id": 4,
-              "name": "armor_weapons_tools",
-              "shortName": "military",
-              "nesting": 0
-            },
-            {
-              "id": 13,
-              "name": "world_mobs",
-              "shortName": "mobs",
-              "nesting": 0
-            }
-          ],
-          "picture": 1254189,
-          "pictures": [
-            1254271,
-            1254272,
-            1254273,
-            1254270,
-            1267623,
-            1254269
-          ],
-          "lanName": "fathomless-crimson",
-          "version": {
-            "id": 7177765,
-            "name": "FathomlessCrimson-1.0.8",
-            "updateDate": 1762085870000,
-            "type": "beta",
-            "gameVersionsDTO": [
-              {
-                "id": 46,
-                "name": "1.20.1"
-              }
-            ],
-            "metadata": {
-              "sha1": "b1f71e4c2038b6bceda425d9841936e15f06a1db",
-              "size": 8382296,
-              "path": "mods/FathomlessCrimson-1.0.8.jar",
-              "url": "/mods/1370939/7177765/FathomlessCrimson-1.0.8.jar"
-            },
-            "installed": 420,
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 1,
-                "name": "forge"
-              }
-            ]
-          },
-          "popularity": 1,
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [
-            {
-              "gameType": "mod",
-              "id": 169,
-              "name": "GeckoLib",
-              "gameEntityId": 388172,
-              "dependencyType": "required"
-            },
-            {
-              "gameType": "mod",
-              "id": 15609,
-              "name": "Nexus Layer",
-              "gameEntityId": 1305942,
-              "dependencyType": "required"
-            }
-          ],
-          "lastGameVersion": {
-            "id": 46,
-            "name": "1.20.1"
-          },
-          "updated": 1762030800000,
-          "update": 1762030800000,
-          "downloadALL": 719,
-          "available": true,
-          "parser": true,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
+          "stateGameElement": "no_active",
           "id": 1194152,
           "name": "Brainium",
           "author": "PretzelPink",
@@ -42639,158 +40000,6 @@
           "available": true,
           "parser": true,
           "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
-          "id": 1123970,
-          "name": "Fragmentum (Forge)",
-          "author": "Obscuria",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/fragmentum-forge",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 7,
-              "name": "library_api",
-              "shortName": "api",
-              "nesting": 0
-            }
-          ],
-          "picture": 1258923,
-          "pictures": [],
-          "lanName": "fragmentum-forge",
-          "version": {
-            "id": 7195789,
-            "name": "fragmentum-forge-1.20.1-0.5.2",
-            "updateDate": 1762530112000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 46,
-                "name": "1.20.1"
-              }
-            ],
-            "metadata": {
-              "sha1": "ce78c87ca8f72062b39ea400fc708b4ceb360812",
-              "size": 1663335,
-              "path": "mods/fragmentum-forge-1.20.1-0.5.2.jar",
-              "url": "/mods/1123970/7195789/fragmentum-forge-1.20.1-0.5.2.jar"
-            },
-            "installed": 538,
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 1,
-                "name": "forge"
-              }
-            ]
-          },
-          "popularity": 1,
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [],
-          "lastGameVersion": {
-            "id": 53,
-            "name": "1.21.1"
-          },
-          "updated": 1762722000000,
-          "update": 1762722000000,
-          "downloadALL": 4271,
-          "available": true,
-          "parser": true,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
-          "id": 715660,
-          "name": "Obscure Tooltips",
-          "author": "obscuriaofficial",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/obscure-tooltips",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 55,
-              "name": "adventure_and_rpg",
-              "shortName": "roleplay",
-              "nesting": 0
-            },
-            {
-              "id": 4,
-              "name": "armor_weapons_tools",
-              "shortName": "military",
-              "nesting": 0
-            },
-            {
-              "id": 6,
-              "name": "map_information",
-              "shortName": "maps",
-              "nesting": 0
-            },
-            {
-              "id": 3,
-              "name": "cosmetic",
-              "shortName": "cosmetic",
-              "nesting": 0
-            }
-          ],
-          "picture": 1265252,
-          "pictures": [
-            381765,
-            381766,
-            381767,
-            381768
-          ],
-          "lanName": "obscure-tooltips",
-          "version": {
-            "id": 7195813,
-            "name": "obscure_tooltips-forge-1.20.1-3.1.2",
-            "updateDate": 1762530624000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 46,
-                "name": "1.20.1"
-              }
-            ],
-            "metadata": {
-              "sha1": "3b9e4fa85f5d4fcf3d94b871692a93cb0e85a7dc",
-              "size": 857238,
-              "path": "mods/obscure_tooltips-forge-1.20.1-3.1.2.jar",
-              "url": "/mods/715660/7195813/obscure_tooltips-forge-1.20.1-3.1.2.jar"
-            },
-            "installed": 438,
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 1,
-                "name": "forge"
-              }
-            ]
-          },
-          "popularity": 2,
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [
-            {
-              "gameType": "mod",
-              "id": 8891,
-              "name": "Fragmentum (Forge)",
-              "gameEntityId": 1123970,
-              "dependencyType": "required"
-            }
-          ],
-          "lastGameVersion": {
-            "id": 46,
-            "name": "1.20.1"
-          },
-          "updated": 1762462800000,
-          "update": 1762462800000,
-          "downloadALL": 25196,
-          "available": true,
-          "parser": true,
-          "totalComments": 0,
-          "adult": false
         },
         {
           "stateGameElement": "active",
@@ -43141,94 +40350,7 @@
           "totalComments": 0
         },
         {
-          "stateGameElement": "active",
-          "id": 1356772,
-          "name": "Pillager Caravans",
-          "author": "Obscuria",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/pillager-caravans",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 55,
-              "name": "adventure_and_rpg",
-              "shortName": "roleplay",
-              "nesting": 0
-            },
-            {
-              "id": 13,
-              "name": "world_mobs",
-              "shortName": "mobs",
-              "nesting": 0
-            },
-            {
-              "id": 29,
-              "name": "world_gen",
-              "shortName": "world",
-              "nesting": 0
-            }
-          ],
-          "picture": 1266979,
-          "pictures": [
-            1237786,
-            1237788,
-            1237785,
-            1237789,
-            1237790,
-            1237787
-          ],
-          "lanName": "pillager-caravans",
-          "version": {
-            "id": 7091499,
-            "name": "caravans-forge-1.20.1-1.1.3",
-            "updateDate": 1760117950000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 46,
-                "name": "1.20.1"
-              }
-            ],
-            "metadata": {
-              "sha1": "4e6ed47ecbc884502abbe6372699225570ab400b",
-              "size": 787526,
-              "path": "mods/caravans-forge-1.20.1-1.1.3.jar",
-              "url": "/mods/1356772/7091499/caravans-forge-1.20.1-1.1.3.jar"
-            },
-            "installed": 660,
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 1,
-                "name": "forge"
-              }
-            ]
-          },
-          "popularity": 1,
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [
-            {
-              "gameType": "mod",
-              "id": 8891,
-              "name": "Fragmentum (Forge)",
-              "gameEntityId": 1123970,
-              "dependencyType": "required"
-            }
-          ],
-          "lastGameVersion": {
-            "id": 46,
-            "name": "1.20.1"
-          },
-          "updated": 1760043600000,
-          "update": 1760043600000,
-          "downloadALL": 741,
-          "available": true,
-          "parser": true,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
+          "stateGameElement": "no_active",
           "id": 855017,
           "name": "Clean Tooltips",
           "author": "StalDev StalDev cesar_zorak",
@@ -44008,6 +41130,3419 @@
           "updated": 1762203600000,
           "update": 1762203600000,
           "downloadALL": 60,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 551151,
+          "name": "Enchanting Infuser",
+          "author": "fuzs_",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 1,
+              "name": "magic",
+              "shortName": "magic",
+              "nesting": 0
+            },
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            }
+          ],
+          "picture": 800608,
+          "pictures": [
+            268219,
+            268221,
+            268216,
+            268217,
+            268222,
+            268223,
+            268220,
+            268218
+          ],
+          "lanName": "enchanting-infuser",
+          "version": {
+            "id": 5528724,
+            "name": "EnchantingInfuser-v8.0.3-1.20.1-Forge",
+            "updateDate": 1720877465000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "d939ec7d3771062f24a44ee1fdfa17e476e51634",
+              "size": 177437,
+              "path": "mods/EnchantingInfuser-v8.0.3-1.20.1-Forge.jar",
+              "url": "/mods/551151/5528724/EnchantingInfuser-v8.0.3-1.20.1-Forge.jar"
+            },
+            "installed": 150871,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 969,
+              "name": "Puzzles Lib",
+              "gameEntityId": 495476,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 65,
+            "name": "1.21.10"
+          },
+          "updated": 1759870800000,
+          "update": 1759870800000,
+          "downloadALL": 635300,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "no_active",
+          "id": 621405,
+          "name": "Cracker's Wither Storm Mod",
+          "author": "nonamecrackers2",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/crackers-wither-storm-mod",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            },
+            {
+              "id": 29,
+              "name": "world_gen",
+              "shortName": "world",
+              "nesting": 0
+            }
+          ],
+          "picture": 800650,
+          "pictures": [
+            542722,
+            542723,
+            410937,
+            542724,
+            542718,
+            542716,
+            542717,
+            410927,
+            410930,
+            542714,
+            410923,
+            542721,
+            410931,
+            542719,
+            542720,
+            410928,
+            542715
+          ],
+          "lanName": "crackers-wither-storm-mod",
+          "version": {
+            "id": 5619741,
+            "name": "witherstormmod-1.20.1-4.2.1-all",
+            "updateDate": 1723418636000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "bd32ea3f44812b6b1744739633ea25d32197f4b8",
+              "size": 47342265,
+              "path": "mods/witherstormmod-1.20.1-4.2.1-all.jar",
+              "url": "/mods/621405/5619741/witherstormmod-1.20.1-4.2.1-all.jar"
+            },
+            "installed": 118584,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              },
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 46,
+            "name": "1.20.1"
+          },
+          "updated": 1723323600000,
+          "update": 1723323600000,
+          "downloadALL": 512127,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 409371,
+          "name": "Meet Your Fight",
+          "author": "lykrast",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/meet-your-fight",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            }
+          ],
+          "picture": 844351,
+          "pictures": [
+            256828,
+            201195,
+            201194,
+            201198,
+            434299
+          ],
+          "lanName": "meet-your-fight",
+          "version": {
+            "id": 6816822,
+            "name": "meetyourfight-1.20.1-1.5.2",
+            "updateDate": 1753610403000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "5d2f45ae68fb67e25c3ebd97d41a3e4759ef1a6b",
+              "size": 23610870,
+              "path": "mods/meetyourfight-1.20.1-1.5.2.jar",
+              "url": "/mods/409371/6816822/meetyourfight-1.20.1-1.5.2.jar"
+            },
+            "installed": 1347,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              },
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 2,
+          "downloadMonth": 21,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 4617,
+              "name": "Guns Without Roses",
+              "gameEntityId": 405077,
+              "dependencyType": "optional"
+            },
+            {
+              "gameType": "mod",
+              "id": 9,
+              "name": "Curios API (ForgeNeoForge)",
+              "gameEntityId": 309927,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 46,
+            "name": "1.20.1"
+          },
+          "updated": 1753563600000,
+          "update": 1753563600000,
+          "downloadALL": 38562,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 989611,
+          "name": "Royal Variations",
+          "author": "mongoose_artist mongoose_artist",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/royal-variations",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            },
+            {
+              "id": 29,
+              "name": "world_gen",
+              "shortName": "world",
+              "nesting": 0
+            }
+          ],
+          "picture": 1240747,
+          "pictures": [
+            722491,
+            722492,
+            722493
+          ],
+          "lanName": "royal-variations",
+          "version": {
+            "id": 7168087,
+            "name": "royal-variations-[Forge]_1.20.1_2.0.2",
+            "updateDate": 1761855831000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "52cbff7b0483a894da17a371368203d41e9c9f15",
+              "size": 795990,
+              "path": "mods/royal-variations-[Forge]_1.20.1_2.0.2.jar",
+              "url": "/mods/989611/7168087/royal-variations-%5BForge%5D_1.20.1_2.0.2.jar"
+            },
+            "installed": 1773,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 2,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 956,
+              "name": "Just Enough Effect Descriptions (JEED)",
+              "gameEntityId": 532286,
+              "dependencyType": "optional"
+            },
+            {
+              "gameType": "mod",
+              "id": 4,
+              "name": "Just Enough Items (JEI)",
+              "gameEntityId": 238222,
+              "dependencyType": "optional"
+            },
+            {
+              "gameType": "mod",
+              "id": 9,
+              "name": "Curios API (ForgeNeoForge)",
+              "gameEntityId": 309927,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 46,
+            "name": "1.20.1"
+          },
+          "updated": 1761771600000,
+          "update": 1761771600000,
+          "downloadALL": 14918,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 720397,
+          "name": "Gnumus Settlement",
+          "author": "mongoose_artist",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/gnumus-settlement",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 27,
+              "name": "world_structures",
+              "shortName": "structures",
+              "nesting": 0
+            },
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            },
+            {
+              "id": 29,
+              "name": "world_gen",
+              "shortName": "world",
+              "nesting": 0
+            }
+          ],
+          "picture": 801393,
+          "pictures": [
+            421537,
+            381952,
+            381953,
+            429990,
+            381951,
+            381954,
+            381956,
+            381950,
+            381955,
+            381957,
+            421536,
+            381958
+          ],
+          "lanName": "gnumus-settlement",
+          "version": {
+            "id": 5012952,
+            "name": "gnumus_settlement_[Forge]1.20.1_v1.0",
+            "updateDate": 1704576737000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "058b7f35e0b91fe8b946cffe80bb28e5270bfb41",
+              "size": 891249,
+              "path": "mods/gnumus_settlement_[Forge]1.20.1_v1.0.jar",
+              "url": "/mods/720397/5012952/gnumus_settlement_%5BForge%5D1.20.1_v1.0.jar"
+            },
+            "installed": 17259,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 2,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 46,
+            "name": "1.20.1"
+          },
+          "updated": 1704488400000,
+          "update": 1704488400000,
+          "downloadALL": 28798,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 639842,
+          "name": "Better Combat [Fabric & Forge]",
+          "author": "daedelus_dev",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 787840,
+          "pictures": [
+            338000,
+            344602,
+            338001,
+            345618,
+            337999,
+            344603
+          ],
+          "lanName": "better-combat-by-daedelus",
+          "version": {
+            "id": 7287334,
+            "name": "bettercombat-forge-1.9.0+1.20.1",
+            "updateDate": 1764712123000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              },
+              {
+                "id": 45,
+                "name": "1.20"
+              }
+            ],
+            "metadata": {
+              "sha1": "ea7e7247132cb3acacadd96b2b6b635c4cc63a74",
+              "size": 1054339,
+              "path": "mods/bettercombat-forge-1.9.0%2B1.20.1.jar",
+              "url": "/mods/639842/7287334/bettercombat-forge-1.9.0%252B1.20.1.jar"
+            },
+            "installed": 39,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              },
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 2,
+              "name": "Fabric API",
+              "gameEntityId": 306612,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 3667,
+              "name": "playerAnimator",
+              "gameEntityId": 658587,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 332,
+              "name": "Cloth Config API (FabricForgeNeoForge)",
+              "gameEntityId": 348521,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1766178000000,
+          "update": 1766178000000,
+          "downloadALL": 1318444,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1286233,
+          "name": "Dungeons And Combat x Iron's Spells",
+          "author": "skydude_",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/dungeons-and-combat-x-irons-spells",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 1,
+              "name": "magic",
+              "shortName": "magic",
+              "nesting": 0
+            },
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 26,
+              "name": "mc_addons",
+              "shortName": "addons",
+              "nesting": 0
+            }
+          ],
+          "picture": 1129504,
+          "pictures": [
+            1256633,
+            1256632,
+            1256634,
+            1256635
+          ],
+          "lanName": "dungeons-and-combat-x-irons-spells",
+          "version": {
+            "id": 7305581,
+            "name": "dacxirons-1.5.3",
+            "updateDate": 1765137306000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "1670ec521df581142ddd63ec889edcf320382234",
+              "size": 425066,
+              "path": "mods/dacxirons-1.5.3.jar",
+              "url": "/mods/1286233/7305581/dacxirons-1.5.3.jar"
+            },
+            "installed": 1,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 2,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 5958,
+              "name": "Iron's Spells 'n Spellbooks",
+              "gameEntityId": 855414,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 13455,
+              "name": "Dungeons And Combat",
+              "gameEntityId": 1128235,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 46,
+            "name": "1.20.1"
+          },
+          "updated": 1761944400000,
+          "update": 1761944400000,
+          "downloadALL": 22213,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1253824,
+          "name": "Gambler Illager - Iron's Spells and Spellbooks Addon",
+          "author": "min01",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/gambler-illager-irons-spells-and-spellbooks-addon",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            }
+          ],
+          "picture": 1139848,
+          "pictures": [],
+          "lanName": "gambler-illager-irons-spells-and-spellbooks-addon",
+          "version": {
+            "id": 7293188,
+            "name": "gambler-1.0.0",
+            "updateDate": 1764842662000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "499cdbc73899ace103f50b57f16ed25d8ccbc297",
+              "size": 55190,
+              "path": "mods/gambler-1.0.0.jar",
+              "url": "/mods/1253824/7293188/gambler-1.0.0.jar"
+            },
+            "installed": 1,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 1,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 5958,
+              "name": "Iron's Spells 'n Spellbooks",
+              "gameEntityId": 855414,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 46,
+            "name": "1.20.1"
+          },
+          "updated": 1756846800000,
+          "update": 1756846800000,
+          "downloadALL": 409,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1110803,
+          "name": "Dark Doppelganger  Iron's Spells and Spellbooks Addon",
+          "author": "Bandit_Bytes",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/dark-doppelganger",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 1,
+              "name": "magic",
+              "shortName": "magic",
+              "nesting": 0
+            },
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            }
+          ],
+          "picture": 989853,
+          "pictures": [
+            999383,
+            999382,
+            1104759,
+            984059,
+            1104760
+          ],
+          "lanName": "dark-doppelganger",
+          "version": {
+            "id": 7292351,
+            "name": "darkdoppelganger-9.4.0-1.20.1",
+            "updateDate": 1764817847000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "37a7ddb724b97ed958c11c6a5638b01a397a5460",
+              "size": 4459085,
+              "path": "mods/darkdoppelganger-9.4.0-1.20.1.jar",
+              "url": "/mods/1110803/7292351/darkdoppelganger-9.4.0-1.20.1.jar"
+            },
+            "installed": 0,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 2,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 3667,
+              "name": "playerAnimator",
+              "gameEntityId": 658587,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 5958,
+              "name": "Iron's Spells 'n Spellbooks",
+              "gameEntityId": 855414,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 9,
+              "name": "Curios API (ForgeNeoForge)",
+              "gameEntityId": 309927,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 169,
+              "name": "GeckoLib",
+              "gameEntityId": 388172,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 54,
+            "name": "1.21.2"
+          },
+          "updated": 1750280400000,
+          "update": 1750280400000,
+          "downloadALL": 10192,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1335102,
+          "name": "Cataclysm & BetterCombat - Compatibility",
+          "author": "rymusov",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/cataclysm-bettercombat-compatibility",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 1,
+              "name": "magic",
+              "shortName": "magic",
+              "nesting": 0
+            },
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 26,
+              "name": "mc_addons",
+              "shortName": "addons",
+              "nesting": 0
+            }
+          ],
+          "picture": 1210579,
+          "pictures": [],
+          "lanName": "cataclysm-bettercombat-compatibility",
+          "version": {
+            "id": 7350922,
+            "name": "cataclysm_compat_1.20.1-1.0.2",
+            "updateDate": 1766085578000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "d044de22552787ea6c078be0a3eb6358006b3b8d",
+              "size": 19288,
+              "path": "mods/cataclysm_compat_1.20.1-1.0.2.jar",
+              "url": "/mods/1335102/7350922/cataclysm_compat_1.20.1-1.0.2.jar"
+            },
+            "installed": 0,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 1,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 4830,
+              "name": "L_Ender 's Cataclysm",
+              "gameEntityId": 551586,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 3641,
+              "name": "Better Combat [Fabric & Forge]",
+              "gameEntityId": 639842,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1756760400000,
+          "update": 1756760400000,
+          "downloadALL": 709,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1271707,
+          "name": "Qliphoth Awakening",
+          "author": "FINDERFEED",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/qliphoth-awakening",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 27,
+              "name": "world_structures",
+              "shortName": "structures",
+              "nesting": 0
+            },
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            },
+            {
+              "id": 29,
+              "name": "world_gen",
+              "shortName": "world",
+              "nesting": 0
+            }
+          ],
+          "picture": 1216161,
+          "pictures": [
+            1142101,
+            1142102,
+            1216256,
+            1142103,
+            1142100
+          ],
+          "lanName": "qliphoth-awakening",
+          "version": {
+            "id": 7234981,
+            "name": "fdbosses-2.0.9.1-1.20.1",
+            "updateDate": 1763454578000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "9e131f4f9db7aa7fe59708d642b04afe09b38fbb",
+              "size": 21091055,
+              "path": "mods/fdbosses-2.0.9.1-1.20.1.jar",
+              "url": "/mods/1271707/7234981/fdbosses-2.0.9.1-1.20.1.jar"
+            },
+            "installed": 1,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              },
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 1,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 13629,
+              "name": "FDLib",
+              "gameEntityId": 1271749,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1760907600000,
+          "update": 1760907600000,
+          "downloadALL": 6695,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 645743,
+          "name": "Astral Dimension",
+          "author": "mrsculk",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/astral-dimension",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 17,
+              "name": "world_dimensions",
+              "shortName": "dimensions",
+              "nesting": 0
+            },
+            {
+              "id": 14,
+              "name": "world_biomes",
+              "shortName": "biomes",
+              "nesting": 0
+            },
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 1182724,
+          "pictures": [
+            1186428,
+            604847,
+            1186437,
+            1186424,
+            1186438,
+            1186431,
+            1186436,
+            1186430,
+            1186425,
+            1186441,
+            1268526,
+            1186427,
+            1186439,
+            1186426,
+            1186432,
+            1186434,
+            1186429,
+            1186433,
+            1186435,
+            1186440
+          ],
+          "lanName": "astral-dimension",
+          "version": {
+            "id": 7333703,
+            "name": "Astral_1.9.3_1.20.1_Forge",
+            "updateDate": 1765739225000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "c432c82f34b85191fa3426bd2edbe17af015f5c2",
+              "size": 16912318,
+              "path": "mods/Astral_1.9.3_1.20.1_Forge.jar",
+              "url": "/mods/645743/7333703/Astral_1.9.3_1.20.1_Forge.jar"
+            },
+            "installed": 10,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 1,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 169,
+              "name": "GeckoLib",
+              "gameEntityId": 388172,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1758834000000,
+          "update": 1758834000000,
+          "downloadALL": 8346,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1280678,
+          "name": "Threateningly Mobs",
+          "author": "Tkhy",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/threateningly-mobs",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            }
+          ],
+          "picture": 1122308,
+          "pictures": [
+            1122825,
+            1122813,
+            1122815,
+            1122823,
+            1122814,
+            1122824,
+            1122826,
+            1122812,
+            1122818,
+            1122827,
+            1122817,
+            1122822,
+            1122819,
+            1122821,
+            1122811,
+            1122816,
+            1122820
+          ],
+          "lanName": "threateningly-mobs",
+          "version": {
+            "id": 7248674,
+            "name": "threateningly_mobs-1.0.9.82-forge-1.20.1",
+            "updateDate": 1763805426000,
+            "type": "beta",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "6be0e365eaf670f3de484186271d7dfd8bf06fd8",
+              "size": 9837055,
+              "path": "mods/threateningly_mobs-1.0.9.82-forge-1.20.1.jar",
+              "url": "/mods/1280678/7248674/threateningly_mobs-1.0.9.82-forge-1.20.1.jar"
+            },
+            "installed": 8,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 2,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 169,
+              "name": "GeckoLib",
+              "gameEntityId": 388172,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 46,
+            "name": "1.20.1"
+          },
+          "updated": 1755032400000,
+          "update": 1755032400000,
+          "downloadALL": 10938,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1089627,
+          "name": "LUMINOUS BEASTS",
+          "author": "RipleysMods",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/luminous-beasts",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            }
+          ],
+          "picture": 1283245,
+          "pictures": [
+            916757,
+            916760,
+            916758,
+            916759,
+            916762,
+            916761
+          ],
+          "lanName": "luminous-beasts",
+          "version": {
+            "id": 7367808,
+            "name": "LuminousBeast V1.2.6 - Forge 1.20.1",
+            "updateDate": 1766455522000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "72d2977891da8fe6975a67e55dfa207c80dbb032",
+              "size": 25915005,
+              "path": "mods/LuminousBeast%20V1.2.6%20-%20Forge%201.20.1.jar",
+              "url": "/mods/1089627/7367808/LuminousBeast%2520V1.2.6%2520-%2520Forge%25201.20.1.jar"
+            },
+            "installed": 0,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 2,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 169,
+              "name": "GeckoLib",
+              "gameEntityId": 388172,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1766437200000,
+          "update": 1766437200000,
+          "downloadALL": 12515,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1078098,
+          "name": "LUMINOUS NETHER",
+          "author": "RipleysMods",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/luminous-nether",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 27,
+              "name": "world_structures",
+              "shortName": "structures",
+              "nesting": 0
+            },
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 14,
+              "name": "world_biomes",
+              "shortName": "biomes",
+              "nesting": 0
+            },
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            }
+          ],
+          "picture": 1182108,
+          "pictures": [
+            1184819,
+            899566,
+            1184820,
+            1184821,
+            899567,
+            1184818
+          ],
+          "lanName": "luminous-nether",
+          "version": {
+            "id": 6895293,
+            "name": "Luminous Nether V1.3.1 - Forge 1.20.1",
+            "updateDate": 1755407910000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "e5f2c10f355d81a64d9176378854ef9b74af054a",
+              "size": 22531908,
+              "path": "mods/Luminous Nether V1.3.1 - Forge 1.20.1.jar",
+              "url": "/mods/1078098/6895293/Luminous%20Nether%20V1.3.1%20-%20Forge%201.20.1.jar"
+            },
+            "installed": 5966,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 2,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 6459,
+              "name": "TerraBlender (NeoForge)",
+              "gameEntityId": 940057,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 7330,
+              "name": "Luminous Tag",
+              "gameEntityId": 1078066,
+              "dependencyType": "optional"
+            },
+            {
+              "gameType": "mod",
+              "id": 169,
+              "name": "GeckoLib",
+              "gameEntityId": 388172,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1755378000000,
+          "update": 1755378000000,
+          "downloadALL": 18018,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 909107,
+          "name": "LUMINOUS OVERWORLD",
+          "author": "LuminousMod LuminousMod",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/luminous-overworld",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            },
+            {
+              "id": 24,
+              "name": "mc_food",
+              "shortName": "food",
+              "nesting": 0
+            }
+          ],
+          "picture": 1245680,
+          "pictures": [
+            535911,
+            535915,
+            536968,
+            535912,
+            536972,
+            536973,
+            536971,
+            536969,
+            536970
+          ],
+          "lanName": "luminous-overworld",
+          "version": {
+            "id": 7101431,
+            "name": "Luminous Overworld V1.5.3 - Forge 1.20.1",
+            "updateDate": 1760321076000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "bcd30818f5b49ccb25fb5be0910d74538f7e33d2",
+              "size": 23357080,
+              "path": "mods/Luminous Overworld V1.5.3 - Forge 1.20.1.jar",
+              "url": "/mods/909107/7101431/Luminous%20Overworld%20V1.5.3%20-%20Forge%201.20.1.jar"
+            },
+            "installed": 2764,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 2,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 7330,
+              "name": "Luminous Tag",
+              "gameEntityId": 1078066,
+              "dependencyType": "optional"
+            },
+            {
+              "gameType": "mod",
+              "id": 169,
+              "name": "GeckoLib",
+              "gameEntityId": 388172,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1760302800000,
+          "update": 1760302800000,
+          "downloadALL": 28530,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1066090,
+          "name": "LUMINOUS MONSTERS",
+          "author": "RipleysMods",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/luminous-monsters",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 1237617,
+          "pictures": [
+            899758,
+            899761,
+            899757,
+            899760,
+            899759
+          ],
+          "lanName": "luminous-monsters",
+          "version": {
+            "id": 7062293,
+            "name": "Luminous Monsters V1.2.8 - Forge 1.20.1",
+            "updateDate": 1759510457000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "3025fc2d490f72668f1280211b5ce5ede6073b0e",
+              "size": 825004,
+              "path": "mods/Luminous Monsters V1.2.8 - Forge 1.20.1.jar",
+              "url": "/mods/1066090/7062293/Luminous%20Monsters%20V1.2.8%20-%20Forge%201.20.1.jar"
+            },
+            "installed": 1231,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 1,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 169,
+              "name": "GeckoLib",
+              "gameEntityId": 388172,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1760130000000,
+          "update": 1760130000000,
+          "downloadALL": 6820,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1337167,
+          "name": "Moog's Structure Lib (moogs_structures)",
+          "author": "finndog_123",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/moogs-structure-lib",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 27,
+              "name": "world_structures",
+              "shortName": "structures",
+              "nesting": 0
+            },
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 1233986,
+          "pictures": [],
+          "lanName": "moogs-structure-lib",
+          "version": {
+            "id": 7238548,
+            "name": "moogs_structure_lib-1.1.0-1.20-1.20.4-forge",
+            "updateDate": 1763553591000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 49,
+                "name": "1.20.4"
+              },
+              {
+                "id": 48,
+                "name": "1.20.3"
+              },
+              {
+                "id": 47,
+                "name": "1.20.2"
+              },
+              {
+                "id": 46,
+                "name": "1.20.1"
+              },
+              {
+                "id": 45,
+                "name": "1.20"
+              }
+            ],
+            "metadata": {
+              "sha1": "b7751ee5cc55e6a56bc4b7c1b79bb6e63727e8aa",
+              "size": 259848,
+              "path": "mods/moogs_structure_lib-1.1.0-1.20-1.20.4-forge.jar",
+              "url": "/mods/1337167/7238548/moogs_structure_lib-1.1.0-1.20-1.20.4-forge.jar"
+            },
+            "installed": 0,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 2,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1760043600000,
+          "update": 1760043600000,
+          "downloadALL": 21963,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 656977,
+          "name": "MVS - Moog's Voyager Structures",
+          "author": "finn3253",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/moogs-voyager-structures",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 27,
+              "name": "world_structures",
+              "shortName": "structures",
+              "nesting": 0
+            },
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            },
+            {
+              "id": 29,
+              "name": "world_gen",
+              "shortName": "world",
+              "nesting": 0
+            }
+          ],
+          "picture": 844202,
+          "pictures": [
+            433904,
+            433903,
+            433888,
+            433893,
+            433895,
+            433889,
+            433896,
+            433897,
+            433901,
+            433892,
+            433902,
+            433894,
+            433887,
+            433899,
+            433898,
+            433886,
+            433890,
+            433891,
+            433900
+          ],
+          "lanName": "moogs-voyager-structures",
+          "version": {
+            "id": 7311820,
+            "name": "MoogsVoyagerStructures-1.20-5.0.3",
+            "updateDate": 1765290746000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 51,
+                "name": "1.20.6"
+              },
+              {
+                "id": 50,
+                "name": "1.20.5"
+              },
+              {
+                "id": 49,
+                "name": "1.20.4"
+              },
+              {
+                "id": 48,
+                "name": "1.20.3"
+              },
+              {
+                "id": 47,
+                "name": "1.20.2"
+              },
+              {
+                "id": 46,
+                "name": "1.20.1"
+              },
+              {
+                "id": 45,
+                "name": "1.20"
+              }
+            ],
+            "metadata": {
+              "sha1": "363be67725a770e0dfce806fb5dc0af21e6535fb",
+              "size": 2656217,
+              "path": "mods/MoogsVoyagerStructures-1.20-5.0.3.jar",
+              "url": "/mods/656977/7311820/MoogsVoyagerStructures-1.20-5.0.3.jar"
+            },
+            "installed": 31,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              },
+              {
+                "id": 2,
+                "name": "fabric"
+              },
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 3,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 15483,
+              "name": "Moog's Structure Lib (moogs_structures)",
+              "gameEntityId": 1337167,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1760734800000,
+          "update": 1760734800000,
+          "downloadALL": 220305,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1205196,
+          "name": "Mythic Origins",
+          "author": "Ellipog",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/mythic-origins",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 1,
+              "name": "magic",
+              "shortName": "magic",
+              "nesting": 0
+            },
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 26,
+              "name": "mc_addons",
+              "shortName": "addons",
+              "nesting": 0
+            }
+          ],
+          "picture": 1033414,
+          "pictures": [],
+          "lanName": "mythic-origins",
+          "version": {
+            "id": 6229051,
+            "name": "Mythic-Origins-1.0.2",
+            "updateDate": 1740387223000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 57,
+                "name": "1.21.4"
+              },
+              {
+                "id": 55,
+                "name": "1.21.3"
+              },
+              {
+                "id": 54,
+                "name": "1.21.2"
+              },
+              {
+                "id": 53,
+                "name": "1.21.1"
+              },
+              {
+                "id": 52,
+                "name": "1.21"
+              },
+              {
+                "id": 51,
+                "name": "1.20.6"
+              },
+              {
+                "id": 50,
+                "name": "1.20.5"
+              },
+              {
+                "id": 49,
+                "name": "1.20.4"
+              },
+              {
+                "id": 48,
+                "name": "1.20.3"
+              },
+              {
+                "id": 47,
+                "name": "1.20.2"
+              },
+              {
+                "id": 46,
+                "name": "1.20.1"
+              },
+              {
+                "id": 45,
+                "name": "1.20"
+              },
+              {
+                "id": 44,
+                "name": "1.19.4"
+              },
+              {
+                "id": 43,
+                "name": "1.19.3"
+              },
+              {
+                "id": 38,
+                "name": "1.19.2"
+              },
+              {
+                "id": 37,
+                "name": "1.19.1"
+              },
+              {
+                "id": 36,
+                "name": "1.19"
+              }
+            ],
+            "metadata": {
+              "sha1": "7a495be4dcec003ee145a6de3a7a85b2e1ee5ebb",
+              "size": 355401,
+              "path": "mods/Mythic-Origins-1.0.2.jar",
+              "url": "/mods/1205196/6229051/Mythic-Origins-1.0.2.jar"
+            },
+            "installed": 69993,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              },
+              {
+                "id": 2,
+                "name": "fabric"
+              },
+              {
+                "id": 1,
+                "name": "forge"
+              },
+              {
+                "id": 4,
+                "name": "quilt"
+              }
+            ]
+          },
+          "popularity": 2,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 57,
+            "name": "1.21.4"
+          },
+          "updated": 1740344400000,
+          "update": 1740344400000,
+          "downloadALL": 71578,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1336105,
+          "name": "Monster Expansion",
+          "author": "Saksolm",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/monster-expansion",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            }
+          ],
+          "picture": 1212952,
+          "pictures": [
+            1259542,
+            1259545,
+            1259544,
+            1259543,
+            1259546,
+            1259547
+          ],
+          "lanName": "monster-expansion",
+          "version": {
+            "id": 7374245,
+            "name": "monsterexpansion-1.20.1-v0.6.1",
+            "updateDate": 1766607280000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "66f616521cd9277f4d3d4353eee0b33bcf6b479b",
+              "size": 13532674,
+              "path": "mods/monsterexpansion-1.20.1-v0.6.1.jar",
+              "url": "/mods/1336105/7374245/monsterexpansion-1.20.1-v0.6.1.jar"
+            },
+            "installed": 1,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 1,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 46,
+            "name": "1.20.1"
+          },
+          "updated": 1761858000000,
+          "update": 1761858000000,
+          "downloadALL": 5041,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 312359,
+          "name": "Dawn Of Time",
+          "author": "dawnoftime_team Poulpynou TheGoldenWorld",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/dawn-of-time",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 23,
+              "name": "world_ores_resources",
+              "shortName": "ores",
+              "nesting": 0
+            },
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            },
+            {
+              "id": 24,
+              "name": "mc_food",
+              "shortName": "food",
+              "nesting": 0
+            },
+            {
+              "id": 29,
+              "name": "world_gen",
+              "shortName": "world",
+              "nesting": 0
+            }
+          ],
+          "picture": 801460,
+          "pictures": [
+            542536,
+            542534,
+            542532,
+            542537,
+            542538,
+            542531,
+            542533,
+            542535
+          ],
+          "lanName": "dawn-of-time",
+          "version": {
+            "id": 7358533,
+            "name": "dawnoftimebuilder-forge-1.20.1-1.5.43",
+            "updateDate": 1766257701000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "5d7931f17f160d2bd645e03620bf7a9406c49820",
+              "size": 3001151,
+              "path": "mods/dawnoftimebuilder-forge-1.20.1-1.5.43.jar",
+              "url": "/mods/312359/7358533/dawnoftimebuilder-forge-1.20.1-1.5.43.jar"
+            },
+            "installed": 0,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 3,
+          "downloadMonth": 96,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 5680,
+              "name": "Fusion (Connected Textures)",
+              "gameEntityId": 854949,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 65,
+            "name": "1.21.10"
+          },
+          "updated": 1766178000000,
+          "update": 1766178000000,
+          "downloadALL": 122845,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 950005,
+          "name": "Lios Overhauled Villages",
+          "author": "Liopyu Liopyu",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/lios-overhauled-villages",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 27,
+              "name": "world_structures",
+              "shortName": "structures",
+              "nesting": 0
+            },
+            {
+              "id": 29,
+              "name": "world_gen",
+              "shortName": "world",
+              "nesting": 0
+            }
+          ],
+          "picture": 846148,
+          "pictures": [
+            605375,
+            605380,
+            605383,
+            605370,
+            605377,
+            605379,
+            605384,
+            605374,
+            605372,
+            605371,
+            605378,
+            605382,
+            605381,
+            605373,
+            605376
+          ],
+          "lanName": "lios-overhauled-villages",
+          "version": {
+            "id": 7271079,
+            "name": "lios_overhauled_villages-0.1.0",
+            "updateDate": 1764337019000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              },
+              {
+                "id": 65,
+                "name": "1.21.10"
+              },
+              {
+                "id": 64,
+                "name": "1.21.9"
+              },
+              {
+                "id": 63,
+                "name": "1.21.8"
+              },
+              {
+                "id": 62,
+                "name": "1.21.7"
+              },
+              {
+                "id": 61,
+                "name": "1.21.6"
+              },
+              {
+                "id": 59,
+                "name": "1.21.5"
+              },
+              {
+                "id": 57,
+                "name": "1.21.4"
+              },
+              {
+                "id": 55,
+                "name": "1.21.3"
+              },
+              {
+                "id": 54,
+                "name": "1.21.2"
+              },
+              {
+                "id": 53,
+                "name": "1.21.1"
+              },
+              {
+                "id": 52,
+                "name": "1.21"
+              },
+              {
+                "id": 51,
+                "name": "1.20.6"
+              },
+              {
+                "id": 50,
+                "name": "1.20.5"
+              },
+              {
+                "id": 49,
+                "name": "1.20.4"
+              },
+              {
+                "id": 48,
+                "name": "1.20.3"
+              },
+              {
+                "id": 47,
+                "name": "1.20.2"
+              },
+              {
+                "id": 46,
+                "name": "1.20.1"
+              },
+              {
+                "id": 45,
+                "name": "1.20"
+              },
+              {
+                "id": 44,
+                "name": "1.19.4"
+              },
+              {
+                "id": 43,
+                "name": "1.19.3"
+              },
+              {
+                "id": 38,
+                "name": "1.19.2"
+              },
+              {
+                "id": 37,
+                "name": "1.19.1"
+              },
+              {
+                "id": 36,
+                "name": "1.19"
+              },
+              {
+                "id": 35,
+                "name": "1.18.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "503a939c5f0ac20c5849e9a711e9a4d2dd85090f",
+              "size": 2689147,
+              "path": "mods/lios_overhauled_villages-0.1.0.jar",
+              "url": "/mods/950005/7271079/lios_overhauled_villages-0.1.0.jar"
+            },
+            "installed": 0,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              },
+              {
+                "id": 2,
+                "name": "fabric"
+              },
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 2,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1751058000000,
+          "update": 1751058000000,
+          "downloadALL": 89435,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1280129,
+          "name": "Lios Hobbit Hill Village",
+          "author": "Liopyu",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/hobbit-hill-village",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 27,
+              "name": "world_structures",
+              "shortName": "structures",
+              "nesting": 0
+            },
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            }
+          ],
+          "picture": 1183774,
+          "pictures": [
+            1188784,
+            1188787,
+            1188783,
+            1188788,
+            1188789,
+            1188786,
+            1188780,
+            1188782,
+            1188785,
+            1188781
+          ],
+          "lanName": "hobbit-hill-village",
+          "version": {
+            "id": 7060031,
+            "name": "hobbit_hill_village-0.0.2",
+            "updateDate": 1759454596000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              },
+              {
+                "id": 65,
+                "name": "1.21.10"
+              },
+              {
+                "id": 64,
+                "name": "1.21.9"
+              },
+              {
+                "id": 63,
+                "name": "1.21.8"
+              },
+              {
+                "id": 62,
+                "name": "1.21.7"
+              },
+              {
+                "id": 61,
+                "name": "1.21.6"
+              },
+              {
+                "id": 59,
+                "name": "1.21.5"
+              },
+              {
+                "id": 57,
+                "name": "1.21.4"
+              },
+              {
+                "id": 55,
+                "name": "1.21.3"
+              },
+              {
+                "id": 54,
+                "name": "1.21.2"
+              },
+              {
+                "id": 53,
+                "name": "1.21.1"
+              },
+              {
+                "id": 52,
+                "name": "1.21"
+              },
+              {
+                "id": 51,
+                "name": "1.20.6"
+              },
+              {
+                "id": 50,
+                "name": "1.20.5"
+              },
+              {
+                "id": 49,
+                "name": "1.20.4"
+              },
+              {
+                "id": 48,
+                "name": "1.20.3"
+              },
+              {
+                "id": 47,
+                "name": "1.20.2"
+              },
+              {
+                "id": 46,
+                "name": "1.20.1"
+              },
+              {
+                "id": 45,
+                "name": "1.20"
+              },
+              {
+                "id": 44,
+                "name": "1.19.4"
+              },
+              {
+                "id": 43,
+                "name": "1.19.3"
+              },
+              {
+                "id": 38,
+                "name": "1.19.2"
+              },
+              {
+                "id": 37,
+                "name": "1.19.1"
+              },
+              {
+                "id": 36,
+                "name": "1.19"
+              }
+            ],
+            "metadata": {
+              "sha1": "cc7b675085ec2e05f17cf8e91b21952958e66a9b",
+              "size": 3755530,
+              "path": "mods/hobbit_hill_village-0.0.2.jar",
+              "url": "/mods/1280129/7060031/hobbit_hill_village-0.0.2.jar"
+            },
+            "installed": 3085,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              },
+              {
+                "id": 2,
+                "name": "fabric"
+              },
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 1,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1759438800000,
+          "update": 1759438800000,
+          "downloadALL": 6658,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1108728,
+          "name": "Lios Seafaring Dungeons",
+          "author": "Liopyu",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/lios-seafaring-dungeons",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 27,
+              "name": "world_structures",
+              "shortName": "structures",
+              "nesting": 0
+            }
+          ],
+          "picture": 949419,
+          "pictures": [
+            958089,
+            958094,
+            958096,
+            958095,
+            958093,
+            958091,
+            958086,
+            958090,
+            958092,
+            958087,
+            958097,
+            958088
+          ],
+          "lanName": "lios-seafaring-dungeons",
+          "version": {
+            "id": 6678641,
+            "name": "lios_seafaring_dungeons-1.18.2-1.21.6-v0.0.5",
+            "updateDate": 1750509529000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 63,
+                "name": "1.21.8"
+              },
+              {
+                "id": 62,
+                "name": "1.21.7"
+              },
+              {
+                "id": 61,
+                "name": "1.21.6"
+              },
+              {
+                "id": 59,
+                "name": "1.21.5"
+              },
+              {
+                "id": 57,
+                "name": "1.21.4"
+              },
+              {
+                "id": 55,
+                "name": "1.21.3"
+              },
+              {
+                "id": 54,
+                "name": "1.21.2"
+              },
+              {
+                "id": 53,
+                "name": "1.21.1"
+              },
+              {
+                "id": 52,
+                "name": "1.21"
+              },
+              {
+                "id": 51,
+                "name": "1.20.6"
+              },
+              {
+                "id": 50,
+                "name": "1.20.5"
+              },
+              {
+                "id": 49,
+                "name": "1.20.4"
+              },
+              {
+                "id": 48,
+                "name": "1.20.3"
+              },
+              {
+                "id": 47,
+                "name": "1.20.2"
+              },
+              {
+                "id": 46,
+                "name": "1.20.1"
+              },
+              {
+                "id": 45,
+                "name": "1.20"
+              },
+              {
+                "id": 44,
+                "name": "1.19.4"
+              },
+              {
+                "id": 43,
+                "name": "1.19.3"
+              },
+              {
+                "id": 38,
+                "name": "1.19.2"
+              },
+              {
+                "id": 37,
+                "name": "1.19.1"
+              },
+              {
+                "id": 36,
+                "name": "1.19"
+              },
+              {
+                "id": 35,
+                "name": "1.18.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "37dce3758bfe635174bbaa288478b843cb3ede3f",
+              "size": 2741723,
+              "path": "mods/lios_seafaring_dungeons-1.18.2-1.21.6-v0.0.5.jar",
+              "url": "/mods/1108728/6678641/lios_seafaring_dungeons-1.18.2-1.21.6-v0.0.5.jar"
+            },
+            "installed": 4939,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              },
+              {
+                "id": 2,
+                "name": "fabric"
+              },
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 1,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 63,
+            "name": "1.21.8"
+          },
+          "updated": 1750453200000,
+          "update": 1750453200000,
+          "downloadALL": 8756,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 990523,
+          "name": "Better Weaponry - Better Combat",
+          "author": "WoroxIV WoroxIV",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/better-weaponry-better-combat",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 1,
+              "name": "magic",
+              "shortName": "magic",
+              "nesting": 0
+            },
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            }
+          ],
+          "picture": 847830,
+          "pictures": [
+            722650,
+            722632,
+            722634,
+            722638,
+            722648,
+            722633,
+            722642,
+            722637,
+            722639,
+            722641,
+            722643,
+            722635,
+            722644,
+            722640,
+            722645,
+            722636
+          ],
+          "lanName": "better-weaponry-better-combat",
+          "version": {
+            "id": 6046452,
+            "name": "better_weaponry-1.1.3-forge-1.20.1",
+            "updateDate": 1735840705000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "71fb4518591d3172c93468ab4c5f2aae7cfb3e78",
+              "size": 650331,
+              "path": "mods/better_weaponry-1.1.3-forge-1.20.1.jar",
+              "url": "/mods/990523/6046452/better_weaponry-1.1.3-forge-1.20.1.jar"
+            },
+            "installed": 15563,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 2,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1735765200000,
+          "update": 1735765200000,
+          "downloadALL": 31026,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 967466,
+          "name": "MNS - Moog's Nether Structures",
+          "author": "finndog_123",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/mns-moogs-nether-structures",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 27,
+              "name": "world_structures",
+              "shortName": "structures",
+              "nesting": 0
+            },
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            },
+            {
+              "id": 29,
+              "name": "world_gen",
+              "shortName": "world",
+              "nesting": 0
+            }
+          ],
+          "picture": 845134,
+          "pictures": [],
+          "lanName": "mns-moogs-nether-structures",
+          "version": {
+            "id": 7228596,
+            "name": "MoogsNetherStructures-1.20-2.0.2",
+            "updateDate": 1763297742000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 51,
+                "name": "1.20.6"
+              },
+              {
+                "id": 50,
+                "name": "1.20.5"
+              },
+              {
+                "id": 49,
+                "name": "1.20.4"
+              },
+              {
+                "id": 48,
+                "name": "1.20.3"
+              },
+              {
+                "id": 47,
+                "name": "1.20.2"
+              },
+              {
+                "id": 46,
+                "name": "1.20.1"
+              },
+              {
+                "id": 45,
+                "name": "1.20"
+              }
+            ],
+            "metadata": {
+              "sha1": "bdc96a4c3dc9a7ec7c2dee235ecdc32e56016433",
+              "size": 1323432,
+              "path": "mods/MoogsNetherStructures-1.20-2.0.2.jar",
+              "url": "/mods/967466/7228596/MoogsNetherStructures-1.20-2.0.2.jar"
+            },
+            "installed": 0,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              },
+              {
+                "id": 2,
+                "name": "fabric"
+              },
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 2,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 15483,
+              "name": "Moog's Structure Lib (moogs_structures)",
+              "gameEntityId": 1337167,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1761598800000,
+          "update": 1761598800000,
+          "downloadALL": 47723,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 838411,
+          "name": "Supplementaries Squared",
+          "author": "plantspookable",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/supplementaries-squared",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 26,
+              "name": "mc_addons",
+              "shortName": "addons",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 823649,
+          "pictures": [
+            452880,
+            421470
+          ],
+          "lanName": "supplementaries-squared",
+          "version": {
+            "id": 7302713,
+            "name": "suppsquared-1.20-1.1.28",
+            "updateDate": 1765075539000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "fce110da725de7754d524d0fb61aed1bd7dac448",
+              "size": 923074,
+              "path": "mods/suppsquared-1.20-1.1.28.jar",
+              "url": "/mods/838411/7302713/suppsquared-1.20-1.1.28.jar"
+            },
+            "installed": 0,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 2,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 2,
+              "name": "Fabric API",
+              "gameEntityId": 306612,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 2274,
+              "name": "Moonlight Lib",
+              "gameEntityId": 499980,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 2304,
+              "name": "Supplementaries",
+              "gameEntityId": 412082,
+              "dependencyType": "optional"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1760907600000,
+          "update": 1760907600000,
+          "downloadALL": 62539,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 715660,
+          "name": "Obscure Tooltips",
+          "author": "obscuriaofficial",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/obscure-tooltips",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 6,
+              "name": "map_information",
+              "shortName": "maps",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 1265252,
+          "pictures": [
+            381768,
+            381765,
+            381766,
+            381767
+          ],
+          "lanName": "obscure-tooltips",
+          "version": {
+            "id": 7333749,
+            "name": "obscure_tooltips-forge-1.20.1-3.9.0",
+            "updateDate": 1765739959000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "76e49b31d10d344b94b20f6c0aa941ad8e61bb48",
+              "size": 1133385,
+              "path": "mods/obscure_tooltips-forge-1.20.1-3.9.0.jar",
+              "url": "/mods/715660/7333749/obscure_tooltips-forge-1.20.1-3.9.0.jar"
+            },
+            "installed": 35,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 2,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 8891,
+              "name": "Fragmentum (Forge)",
+              "gameEntityId": 1123970,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1762462800000,
+          "update": 1762462800000,
+          "downloadALL": 26970,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1356772,
+          "name": "Pillager Caravans",
+          "author": "Obscuria",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/pillager-caravans",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            },
+            {
+              "id": 29,
+              "name": "world_gen",
+              "shortName": "world",
+              "nesting": 0
+            }
+          ],
+          "picture": 1266979,
+          "pictures": [
+            1237786,
+            1237788,
+            1237785,
+            1237790,
+            1237787,
+            1237789
+          ],
+          "lanName": "pillager-caravans",
+          "version": {
+            "id": 7271553,
+            "name": "caravans-forge-1.20.1-1.4.1",
+            "updateDate": 1764348310000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "1ea9770efcae23638372bb4c92eeb24b5a967cb6",
+              "size": 1032830,
+              "path": "mods/caravans-forge-1.20.1-1.4.1.jar",
+              "url": "/mods/1356772/7271553/caravans-forge-1.20.1-1.4.1.jar"
+            },
+            "installed": 8,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 1,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 8891,
+              "name": "Fragmentum (Forge)",
+              "gameEntityId": 1123970,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1760043600000,
+          "update": 1760043600000,
+          "downloadALL": 1195,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1123970,
+          "name": "Fragmentum (Forge)",
+          "author": "Obscuria",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/fragmentum-forge",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 1258923,
+          "pictures": [],
+          "lanName": "fragmentum-forge",
+          "version": {
+            "id": 7297324,
+            "name": "fragmentum-forge-1.20.1-1.0.8",
+            "updateDate": 1764951004000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "7ec6f43c62973cb920561a849a6ce9f0ad07662f",
+              "size": 1690452,
+              "path": "mods/fragmentum-forge-1.20.1-1.0.8.jar",
+              "url": "/mods/1123970/7297324/fragmentum-forge-1.20.1-1.0.8.jar"
+            },
+            "installed": 0,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 1,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1762722000000,
+          "update": 1762722000000,
+          "downloadALL": 6598,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1370939,
+          "name": "Fathomless Crimson (Tribute to Horror)",
+          "author": "BrikNex",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/fathomless-crimson",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 27,
+              "name": "world_structures",
+              "shortName": "structures",
+              "nesting": 0
+            },
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            }
+          ],
+          "picture": 1254189,
+          "pictures": [
+            1254273,
+            1254269,
+            1254270,
+            1267623,
+            1254271,
+            1254272
+          ],
+          "lanName": "fathomless-crimson",
+          "version": {
+            "id": 7335675,
+            "name": "FathomlessCrimson-1.1.2",
+            "updateDate": 1765788484000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "aa3095ee12b21337d73901637c343f580d76e394",
+              "size": 10468179,
+              "path": "mods/FathomlessCrimson-1.1.2.jar",
+              "url": "/mods/1370939/7335675/FathomlessCrimson-1.1.2.jar"
+            },
+            "installed": 0,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 1,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 15609,
+              "name": "Nexus Layer",
+              "gameEntityId": 1305942,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 169,
+              "name": "GeckoLib",
+              "gameEntityId": 388172,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 46,
+            "name": "1.20.1"
+          },
+          "updated": 1762030800000,
+          "update": 1762030800000,
+          "downloadALL": 2036,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1305942,
+          "name": "Nexus Layer",
+          "author": "BrikNex",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/nexus-layer",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 1183538,
+          "pictures": [],
+          "lanName": "nexus-layer",
+          "version": {
+            "id": 7302398,
+            "name": "1.0.9",
+            "updateDate": 1765066448000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "0668275403dcd2144a6252581e42b36c4efda2e0",
+              "size": 314447,
+              "path": "mods/NexusLayer-1.0.9.jar",
+              "url": "/mods/1305942/7302398/NexusLayer-1.0.9.jar"
+            },
+            "installed": 0,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 1,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 169,
+              "name": "GeckoLib",
+              "gameEntityId": 388172,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 46,
+            "name": "1.20.1"
+          },
+          "updated": 1761858000000,
+          "update": 1761858000000,
+          "downloadALL": 2112,
           "available": true,
           "parser": true,
           "totalComments": 0
