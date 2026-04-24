@@ -2,9 +2,9 @@
 
 Complete list of all mods in the Cipher Modpack.
 
-**Total Mods:** 293
-- ✅ **Active Mods:** 204
-- ❌ **Inactive Mods:** 89
+**Total Mods:** 400
+- ✅ **Active Mods:** 350
+- ❌ **Inactive Mods:** 50
 
 ---
 

@@ -3,6 +3,12 @@
 All notable changes to this template will be documented in this file.
 
 ---
+## v6.0.0 (2026-03-31)
+
+---
+## v5.0.0 (2026-01-01)
+
+---
 ## v4.0.0 (2025-10-01)
 
 ### Added

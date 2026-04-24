@@ -4,7 +4,7 @@
 ## 📋 Yêu cầu hệ thống
 
 - **Minecraft**: Java Edition 1.20.1
-- **Java**: JDK 17 trở lên
+- **Java**: JDK 21 trở lên
 - **Mod Loader**: Forge (47.4.10)
 
 ## 🚀 Hướng dẫn cài đặt

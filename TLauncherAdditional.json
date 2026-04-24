@@ -6124,7 +6124,7 @@
           "adult": false
         },
         {
-          "stateGameElement": "active",
+          "stateGameElement": "no_active",
           "id": 301051,
           "name": "Quark Oddities",
           "author": "Vazkii",
@@ -25525,7 +25525,7 @@
           "totalComments": 0
         },
         {
-          "stateGameElement": "active",
+          "stateGameElement": "no_active",
           "id": 440647,
           "name": "The Abyss II - The Other Side",
           "author": "y4z0n",
@@ -36209,6 +36209,76 @@
           "updated": 1759611600000,
           "update": 1759611600000,
           "downloadALL": 8943,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1330729,
+          "name": "Royal Crown - MineColonies",
+          "author": "TheCyber27",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/royal-crown-minecolonies",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            }
+          ],
+          "picture": 1219980,
+          "pictures": [],
+          "lanName": "royal-crown-minecolonies",
+          "version": {
+            "id": 6904808,
+            "name": "royalcrown-1.20.1-1.0.0",
+            "updateDate": 1755630783000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "b37b30b70eb495cb8dd856fcea582760dfbf7952",
+              "size": 104445,
+              "path": "mods/royalcrown-1.20.1-1.0.0.jar",
+              "url": "/mods/1330729/6904808/royalcrown-1.20.1-1.0.0.jar"
+            },
+            "installed": 2588,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 1,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 2485,
+              "name": "MineColonies",
+              "gameEntityId": 245506,
+              "dependencyType": "required",
+              "available": false
+            }
+          ],
+          "lastGameVersion": {
+            "id": 46,
+            "name": "1.20.1"
+          },
+          "updated": 1755550800000,
+          "update": 1755550800000,
+          "downloadALL": 2588,
           "available": true,
           "parser": true,
           "totalComments": 0
