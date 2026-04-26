@@ -30757,7 +30757,7 @@
           "totalComments": 0
         },
         {
-          "stateGameElement": "active",
+          "stateGameElement": "no_active",
           "id": 1313042,
           "name": "WD Spellbooks",
           "author": "Waterdog37",
