@@ -36282,6 +36282,633 @@
           "available": true,
           "parser": true,
           "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1115989,
+          "name": "More Hitboxes",
+          "author": "DarkPr3d",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/more-hitboxes",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 1009871,
+          "pictures": [
+            1009977,
+            1009979,
+            1009978
+          ],
+          "lanName": "more-hitboxes",
+          "version": {
+            "id": 6942239,
+            "name": "morehitboxes-forge-1.20.1-1.9.2",
+            "updateDate": 1756493192000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "4faa402e86c444cf205deac816a501f06a9ecefb",
+              "size": 294405,
+              "path": "mods/morehitboxes-forge-1.20.1-1.9.2.jar",
+              "url": "/mods/1115989/6942239/morehitboxes-forge-1.20.1-1.9.2.jar"
+            },
+            "installed": 37193,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 2,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 4158,
+              "name": "GeckoLib",
+              "gameEntityId": 388172,
+              "dependencyType": "optional",
+              "available": false
+            }
+          ],
+          "lastGameVersion": {
+            "id": 51,
+            "name": "1.20.6"
+          },
+          "updated": 1774904400000,
+          "update": 1774904400000,
+          "downloadALL": 77657,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 986907,
+          "name": "From The Shadows Reborn",
+          "author": "mcl_ender",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/from-the-shadow-reborn",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            }
+          ],
+          "picture": 802468,
+          "pictures": [
+            803447,
+            803446,
+            803445,
+            803444
+          ],
+          "lanName": "from-the-shadow-reborn",
+          "version": {
+            "id": 7217618,
+            "name": "fromtheshadowsreborn-2.9",
+            "updateDate": 1763039553000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "f053366be4526dc2b1ce3c715870d0c3c1687fde",
+              "size": 2588486,
+              "path": "mods/fromtheshadowsreborn-2.9.jar",
+              "url": "/mods/986907/7217618/fromtheshadowsreborn-2.9.jar"
+            },
+            "installed": 3742,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 2,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 11807,
+              "name": "More Hitboxes",
+              "gameEntityId": 1115989,
+              "dependencyType": "required",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 169,
+              "name": "GeckoLib",
+              "gameEntityId": 388172,
+              "dependencyType": "required",
+              "available": false
+            }
+          ],
+          "lastGameVersion": {
+            "id": 46,
+            "name": "1.20.1"
+          },
+          "updated": 1758920400000,
+          "update": 1758920400000,
+          "downloadALL": 16591,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 872712,
+          "name": "Celestisynth Wishes and Hells",
+          "author": "aquextheseal aquextheseal",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/celestisynth",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 23,
+              "name": "world_ores_resources",
+              "shortName": "ores",
+              "nesting": 0
+            },
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            }
+          ],
+          "picture": 916235,
+          "pictures": [
+            478582
+          ],
+          "lanName": "celestisynth",
+          "version": {
+            "id": 7686018,
+            "name": "celestisynth-1.20.1-1.3.4-all",
+            "updateDate": 1772201694000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "1e0b3462ff81b012fb7914110e68a386aca3a316",
+              "size": 2664860,
+              "path": "mods/celestisynth-1.20.1-1.3.4-all.jar",
+              "url": "/mods/872712/7686018/celestisynth-1.20.1-1.3.4-all.jar"
+            },
+            "installed": 3387,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 2,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 169,
+              "name": "GeckoLib",
+              "gameEntityId": 388172,
+              "dependencyType": "required",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 3667,
+              "name": "playerAnimator",
+              "gameEntityId": 658587,
+              "dependencyType": "required",
+              "available": false
+            }
+          ],
+          "lastGameVersion": {
+            "id": 46,
+            "name": "1.20.1"
+          },
+          "updated": 1772139600000,
+          "update": 1772139600000,
+          "downloadALL": 87774,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 323976,
+          "name": "Better Animations Collection",
+          "author": "Fuzs_",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/better-animations-collection",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 844437,
+          "pictures": [
+            238535,
+            238536,
+            238538,
+            238547,
+            238548,
+            238543,
+            238541,
+            232709,
+            238537,
+            238539,
+            238532,
+            233415,
+            238540,
+            238534,
+            238544,
+            238546,
+            238545,
+            232707,
+            238533,
+            238542
+          ],
+          "lanName": "better-animations-collection-2",
+          "version": {
+            "id": 7041304,
+            "name": "v8.0.1-1.20.1-Forge",
+            "updateDate": 1759040433000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "015971d9ebfda64bc11ebc9e251704469fb467c0",
+              "size": 198755,
+              "path": "mods/BetterAnimationsCollection-v8.0.1-1.20.1-Forge.jar",
+              "url": "/mods/323976/7041304/BetterAnimationsCollection-v8.0.1-1.20.1-Forge.jar"
+            },
+            "installed": 13673,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 136,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 841,
+              "name": "Forge Config API Port",
+              "gameEntityId": 547434,
+              "dependencyType": "required",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 969,
+              "name": "Puzzles Lib",
+              "gameEntityId": 495476,
+              "dependencyType": "required",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 2,
+              "name": "Fabric API",
+              "gameEntityId": 306612,
+              "dependencyType": "required",
+              "available": false
+            }
+          ],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1766091600000,
+          "update": 1766091600000,
+          "downloadALL": 575476,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1357310,
+          "name": "Vanilla Animated Guns",
+          "author": "hashnightflux",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/vanilla-animated-guns",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 1,
+              "name": "magic",
+              "shortName": "magic",
+              "nesting": 0
+            },
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            }
+          ],
+          "picture": 1237275,
+          "pictures": [
+            1268388,
+            1268387,
+            1268389,
+            1268386,
+            1268390,
+            1268391,
+            1268385
+          ],
+          "lanName": "vanilla-animated-guns",
+          "version": {
+            "id": 7056729,
+            "name": "vag-1.0.0-1.20.1",
+            "updateDate": 1759390090000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "88220aeffc56d2739073632f5494edbc0cab96d4",
+              "size": 1423546,
+              "path": "mods/vag-1.0.0-1.20.1.jar",
+              "url": "/mods/1357310/7056729/vag-1.0.0-1.20.1.jar"
+            },
+            "installed": 3037,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              },
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 1,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 46,
+            "name": "1.20.1"
+          },
+          "updated": 1759352400000,
+          "update": 1759352400000,
+          "downloadALL": 3418,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 549225,
+          "name": "Framework",
+          "author": "mrcrayfish",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/framework",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 787830,
+          "pictures": [
+            272649,
+            272648,
+            483743,
+            272647,
+            272650,
+            388165
+          ],
+          "lanName": "framework",
+          "version": {
+            "id": 7573740,
+            "name": "framework-forge-1.20.1-0.8.0",
+            "updateDate": 1770176540000,
+            "type": "beta",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "27347879f8760a7bc0b4bd71977abc50e498811c",
+              "size": 383868,
+              "path": "mods/framework-forge-1.20.1-0.8.0.jar",
+              "url": "/mods/549225/7573740/framework-forge-1.20.1-0.8.0.jar"
+            },
+            "installed": 221518,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 1050,
+              "name": "Catalogue",
+              "gameEntityId": 459701,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 221,
+              "name": "Configured",
+              "gameEntityId": 457570,
+              "dependencyType": "optional",
+              "available": false
+            }
+          ],
+          "lastGameVersion": {
+            "id": 69,
+            "name": "26.1.2"
+          },
+          "updated": 1776805200000,
+          "update": 1776805200000,
+          "downloadALL": 5686190,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1358489,
+          "name": "RoadWeaver",
+          "author": "shiroha",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/roadweaver",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 27,
+              "name": "world_structures",
+              "shortName": "structures",
+              "nesting": 0
+            },
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 6,
+              "name": "map_information",
+              "shortName": "maps",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            },
+            {
+              "id": 29,
+              "name": "world_gen",
+              "shortName": "world",
+              "nesting": 0
+            }
+          ],
+          "picture": 1243718,
+          "pictures": [
+            1313933,
+            1313932,
+            1243838,
+            1258565,
+            1258566,
+            1313931
+          ],
+          "lanName": "roadweaver",
+          "version": {
+            "id": 7517344,
+            "name": "roadweaver-forge-2.1.1-1.20.1",
+            "updateDate": 1769253345000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "348669d3e691a1c513722ccbc83c69539d23f31b",
+              "size": 5362195,
+              "path": "mods/roadweaver-forge-2.1.1-1.20.1.jar",
+              "url": "/mods/1358489/7517344/roadweaver-forge-2.1.1-1.20.1.jar"
+            },
+            "installed": 1815,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 1,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1769202000000,
+          "update": 1769202000000,
+          "downloadALL": 3182,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
         }
       ],
       "resourcePacks": [],
