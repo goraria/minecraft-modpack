@@ -2506,67 +2506,6 @@
         },
         {
           "stateGameElement": "active",
-          "id": 1083780,
-          "name": "ExtraLib",
-          "author": "Vecoo",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/extralib",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 7,
-              "name": "library_api",
-              "shortName": "api",
-              "nesting": 0
-            }
-          ],
-          "picture": 1068384,
-          "pictures": [],
-          "lanName": "extralib",
-          "version": {
-            "id": 7416271,
-            "name": "2.1.4-1.20.1-Forge",
-            "updateDate": 1767529665000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 46,
-                "name": "1.20.1"
-              }
-            ],
-            "metadata": {
-              "sha1": "207d0ccf05d6f5af4c4891902df736f3d1c671bc",
-              "size": 7793098,
-              "path": "mods/ExtraLib-2.1.4-1.20.1-Forge.jar",
-              "url": "/mods/1083780/7416271/ExtraLib-2.1.4-1.20.1-Forge.jar"
-            },
-            "installed": 1281,
-            "available": false,
-            "remove": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 1,
-                "name": "forge"
-              }
-            ]
-          },
-          "popularity": 2,
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [],
-          "lastGameVersion": {
-            "id": 53,
-            "name": "1.21.1"
-          },
-          "updated": 1767474000000,
-          "update": 1767474000000,
-          "downloadALL": 42469,
-          "available": true,
-          "parser": true,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
           "id": 964194,
           "name": "ExtraQuests [FTB Quests]",
           "author": "Vecoo",
@@ -3460,557 +3399,6 @@
         },
         {
           "stateGameElement": "active",
-          "id": 899386,
-          "name": "Just Enough Breeding (JEBr)",
-          "author": "Christofmeg Christofmeg",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/justenoughbreeding",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 6,
-              "name": "map_information",
-              "shortName": "maps",
-              "nesting": 0
-            },
-            {
-              "id": 13,
-              "name": "world_mobs",
-              "shortName": "mobs",
-              "nesting": 0
-            },
-            {
-              "id": 26,
-              "name": "mc_addons",
-              "shortName": "addons",
-              "nesting": 0
-            }
-          ],
-          "picture": 844310,
-          "pictures": [
-            515112,
-            515114,
-            515113
-          ],
-          "lanName": "justenoughbreeding",
-          "version": {
-            "id": 7391750,
-            "name": "justenoughbreeding-forge-1.20-1.20.1-2.5.0",
-            "updateDate": 1766999364000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 46,
-                "name": "1.20.1"
-              },
-              {
-                "id": 45,
-                "name": "1.20"
-              }
-            ],
-            "metadata": {
-              "sha1": "10e9ddf2dffcf108af00651ccb6dc91a574e6d85",
-              "size": 566806,
-              "path": "mods/justenoughbreeding-forge-1.20-1.20.1-2.5.0.jar",
-              "url": "/mods/899386/7391750/justenoughbreeding-forge-1.20-1.20.1-2.5.0.jar"
-            },
-            "installed": 2599,
-            "available": false,
-            "remove": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 5,
-                "name": "neoForge"
-              },
-              {
-                "id": 1,
-                "name": "forge"
-              }
-            ]
-          },
-          "popularity": 2,
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [
-            {
-              "gameType": "mod",
-              "id": 6275,
-              "name": "Alex's Caves",
-              "gameEntityId": 924854,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 5904,
-              "name": "Marine Iguana",
-              "gameEntityId": 688475,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 5726,
-              "name": "Deep Aether",
-              "gameEntityId": 852465,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 5355,
-              "name": "Naturalist Lite",
-              "gameEntityId": 627986,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 10009,
-              "name": "YDM's Ostrich",
-              "gameEntityId": 689562,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 5906,
-              "name": "Snuffles",
-              "gameEntityId": 556372,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 632,
-              "name": "Roughly Enough Items FabricForgeNeoForge (REI)",
-              "gameEntityId": 310111,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 4583,
-              "name": "Ecologics",
-              "gameEntityId": 570463,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 5902,
-              "name": "Greek Fantasy",
-              "gameEntityId": 413724,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 1665,
-              "name": "Alex's Mobs",
-              "gameEntityId": 426558,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 5455,
-              "name": "[Let's Do] Meadow",
-              "gameEntityId": 821483,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 1661,
-              "name": "Upgrade Aquatic",
-              "gameEntityId": 326895,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 5334,
-              "name": "Friends&Foes (ForgeNeoForge)",
-              "gameEntityId": 602059,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 6115,
-              "name": "Biome Backlog",
-              "gameEntityId": 665450,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 1110,
-              "name": "ChocoCraft",
-              "gameEntityId": 225280,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 5963,
-              "name": "YDM's Glare",
-              "gameEntityId": 589268,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 13856,
-              "name": "Dracovita Farm Life",
-              "gameEntityId": 585764,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 4811,
-              "name": "Creatures and Beasts",
-              "gameEntityId": 414401,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 6117,
-              "name": "Kiwi boi",
-              "gameEntityId": 530472,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 6271,
-              "name": "Earth Mobs",
-              "gameEntityId": 913527,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 5900,
-              "name": "Caracal Mod (FabricForge)",
-              "gameEntityId": 486505,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 5907,
-              "name": "Sophisticated wolves",
-              "gameEntityId": 220495,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 2004,
-              "name": "Buzzier Bees",
-              "gameEntityId": 355458,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 2425,
-              "name": "Chilean Craft",
-              "gameEntityId": 344102,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 2490,
-              "name": "Environmental",
-              "gameEntityId": 388992,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 2670,
-              "name": "Neapolitan",
-              "gameEntityId": 382016,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 10007,
-              "name": "Ambient Additions",
-              "gameEntityId": 531946,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 5909,
-              "name": "The Ducks",
-              "gameEntityId": 576073,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 4629,
-              "name": "Frozen Up",
-              "gameEntityId": 430652,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 1531,
-              "name": "Blue Skies",
-              "gameEntityId": 312918,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 490,
-              "name": "Quark",
-              "gameEntityId": 243121,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 4,
-              "name": "Just Enough Items (JEI)",
-              "gameEntityId": 238222,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 4816,
-              "name": "Sullys Mod",
-              "gameEntityId": 386534,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 5905,
-              "name": "Snow Pig [Forge]",
-              "gameEntityId": 410500,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 10010,
-              "name": "Winter Overhaul",
-              "gameEntityId": 564989,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 1310,
-              "name": "Aquaculture 2",
-              "gameEntityId": 60028,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 1050,
-              "name": "Catalogue",
-              "gameEntityId": 459701,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 1690,
-              "name": "TerraFirmaCraft",
-              "gameEntityId": 302973,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 7634,
-              "name": "Waddles",
-              "gameEntityId": 251767,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 5901,
-              "name": "Duckling",
-              "gameEntityId": 597248,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 7582,
-              "name": "Untamed Wilds",
-              "gameEntityId": 457252,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 1564,
-              "name": "The Aether",
-              "gameEntityId": 255308,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 5903,
-              "name": "Lil' Wings",
-              "gameEntityId": 561277,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 5910,
-              "name": "Ulterlands Worlds Apart",
-              "gameEntityId": 650094,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 2007,
-              "name": "Atmospheric",
-              "gameEntityId": 362393,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 6307,
-              "name": "Critters and Companions",
-              "gameEntityId": 574913,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 5962,
-              "name": "YDM's Fennec Fox",
-              "gameEntityId": 694325,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 6116,
-              "name": "FrostRealm",
-              "gameEntityId": 479086,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 5899,
-              "name": "Apple Cows",
-              "gameEntityId": 399492,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 6463,
-              "name": "Call of the Wild",
-              "gameEntityId": 715076,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 5964,
-              "name": "YDM's Red Panda",
-              "gameEntityId": 623035,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 2003,
-              "name": "Autumnity",
-              "gameEntityId": 365045,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 5652,
-              "name": "Biome Makeover (Forge)",
-              "gameEntityId": 567709,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 10008,
-              "name": "Recrafted Creatures",
-              "gameEntityId": 835564,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 226,
-              "name": "The Twilight Forest",
-              "gameEntityId": 227639,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 1122,
-              "name": "Ice and Fire Dragons",
-              "gameEntityId": 264231,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 5576,
-              "name": "Fish of Thieves",
-              "gameEntityId": 568372,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 5730,
-              "name": "The Aether Redux",
-              "gameEntityId": 867237,
-              "dependencyType": "optional",
-              "available": false
-            }
-          ],
-          "lastGameVersion": {
-            "id": 66,
-            "name": "1.21.11"
-          },
-          "updated": 1769893200000,
-          "update": 1769893200000,
-          "downloadALL": 63484,
-          "available": true,
-          "parser": true,
-          "totalComments": 0,
-          "adult": false
-        },
-        {
-          "stateGameElement": "active",
           "id": 890755,
           "name": "Just Enough Archaeology",
           "author": "LobsterJonn LobsterJonn",
@@ -4772,72 +4160,6 @@
           "updated": 1741122000000,
           "update": 1741122000000,
           "downloadALL": 55153,
-          "available": true,
-          "parser": true,
-          "totalComments": 0,
-          "adult": false
-        },
-        {
-          "stateGameElement": "active",
-          "id": 618298,
-          "name": "Sophisticated Core",
-          "author": "p3pp3rf1y",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-core",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 7,
-              "name": "library_api",
-              "shortName": "api",
-              "nesting": 0
-            }
-          ],
-          "picture": 821151,
-          "pictures": [],
-          "lanName": "sophisticated-core",
-          "version": {
-            "id": 7898578,
-            "name": "sophisticatedcore-1.20.1-1.3.20.1670",
-            "updateDate": 1775723532000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 46,
-                "name": "1.20.1"
-              }
-            ],
-            "metadata": {
-              "sha1": "eb6ffefe12364353f50719eef69f84cbfd51f59a",
-              "size": 1430255,
-              "path": "mods/sophisticatedcore-1.20.1-1.3.20.1670.jar",
-              "url": "/mods/618298/7898578/sophisticatedcore-1.20.1-1.3.20.1670.jar"
-            },
-            "installed": 6,
-            "available": false,
-            "remove": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 5,
-                "name": "neoForge"
-              },
-              {
-                "id": 1,
-                "name": "forge"
-              }
-            ]
-          },
-          "popularity": 5,
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [],
-          "lastGameVersion": {
-            "id": 68,
-            "name": "26.1.1"
-          },
-          "updated": 1775682000000,
-          "update": 1775682000000,
-          "downloadALL": 3659464,
           "available": true,
           "parser": true,
           "totalComments": 0,
@@ -30448,99 +29770,6 @@
         },
         {
           "stateGameElement": "active",
-          "id": 1478875,
-          "name": "Legendary Spellbooks",
-          "author": "higurashi86z",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/legendary-spellbooks",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 1,
-              "name": "magic",
-              "shortName": "magic",
-              "nesting": 0
-            },
-            {
-              "id": 26,
-              "name": "mc_addons",
-              "shortName": "addons",
-              "nesting": 0
-            }
-          ],
-          "picture": 1361206,
-          "pictures": [
-            1369614,
-            1369615,
-            1369612,
-            1369613,
-            1369619,
-            1369617,
-            1369616,
-            1369618
-          ],
-          "lanName": "legendary-spellbooks",
-          "version": {
-            "id": 7794068,
-            "name": "legendary_spellbooks-1.20.1-0.1.1+forge",
-            "updateDate": 1774176604000,
-            "type": "beta",
-            "gameVersionsDTO": [
-              {
-                "id": 46,
-                "name": "1.20.1"
-              }
-            ],
-            "metadata": {
-              "sha1": "6445097471cf6822e2d9770105f1e40cb41489f5",
-              "size": 234582,
-              "path": "mods/legendary_spellbooks-1.20.1-0.1.1%2Bforge.jar",
-              "url": "/mods/1478875/7794068/legendary_spellbooks-1.20.1-0.1.1%252Bforge.jar"
-            },
-            "installed": 195,
-            "available": false,
-            "remove": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 1,
-                "name": "forge"
-              }
-            ]
-          },
-          "popularity": 1,
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [
-            {
-              "gameType": "mod",
-              "id": 16255,
-              "name": "Legendary Monsters",
-              "gameEntityId": 944035,
-              "dependencyType": "required",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 5958,
-              "name": "Iron's Spells 'n Spellbooks",
-              "gameEntityId": 855414,
-              "dependencyType": "required",
-              "available": false
-            }
-          ],
-          "lastGameVersion": {
-            "id": 46,
-            "name": "1.20.1"
-          },
-          "updated": 1774126800000,
-          "update": 1774126800000,
-          "downloadALL": 256,
-          "available": true,
-          "parser": true,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
           "id": 1459526,
           "name": "Iron's Spells 'n Spellbooks Red Lightning Spells",
           "author": "WelcometotheWorldofDarkness",
@@ -36909,6 +36138,907 @@
           "available": true,
           "parser": true,
           "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1364850,
+          "name": "Elemental Synergies",
+          "author": "HazentouvelPrime",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/elemental-synergies",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 1,
+              "name": "magic",
+              "shortName": "magic",
+              "nesting": 0
+            },
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 26,
+              "name": "mc_addons",
+              "shortName": "addons",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 1248005,
+          "pictures": [
+            1248145,
+            1248143,
+            1248142,
+            1248146,
+            1248144
+          ],
+          "lanName": "elemental-synergies",
+          "version": {
+            "id": 7945783,
+            "name": "elemental_synergies-1.0.4-free-trial-edition-without-cs",
+            "updateDate": 1776528223000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "ec87e9238cfc5c817630f3abebdd07b623596ef6",
+              "size": 447045,
+              "path": "mods/elemental_synergies-1.0.4-free-trial-edition-without-cs.jar",
+              "url": "/mods/1364850/7945783/elemental_synergies-1.0.4-free-trial-edition-without-cs.jar"
+            },
+            "installed": 7,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 1,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 15524,
+              "name": "Magic From The East",
+              "gameEntityId": 1224162,
+              "dependencyType": "required",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 18468,
+              "name": "Tunes n' Tomes a bards journey",
+              "gameEntityId": 1509193,
+              "dependencyType": "required",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 15523,
+              "name": "Hazen 'N Stuff",
+              "gameEntityId": 1231627,
+              "dependencyType": "required",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 15522,
+              "name": "SnackPirate's Aeromancy Additions",
+              "gameEntityId": 1160104,
+              "dependencyType": "required",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 5958,
+              "name": "Iron's Spells 'n Spellbooks",
+              "gameEntityId": 855414,
+              "dependencyType": "required",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 15525,
+              "name": "GTBC's Geomancy Plus - Iron's Spells Addon",
+              "gameEntityId": 1352485,
+              "dependencyType": "required",
+              "available": false
+            }
+          ],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1776459600000,
+          "update": 1776459600000,
+          "downloadALL": 174,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1083780,
+          "name": "ExtraLib",
+          "author": "Vecoo",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/extralib",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 1068384,
+          "pictures": [],
+          "lanName": "extralib",
+          "version": {
+            "id": 7999792,
+            "name": "3.0.1-1.20.1-Forge",
+            "updateDate": 1777288495000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "054943c491f69eba91006a46290ecc36e673e494",
+              "size": 8113478,
+              "path": "mods/ExtraLib-3.0.1-1.20.1-Forge.jar",
+              "url": "/mods/1083780/7999792/ExtraLib-3.0.1-1.20.1-Forge.jar"
+            },
+            "installed": 44,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 2,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1777237200000,
+          "update": 1777237200000,
+          "downloadALL": 44106,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1478875,
+          "name": "Legendary Spellbooks",
+          "author": "higurashi86z",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/legendary-spellbooks",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 1,
+              "name": "magic",
+              "shortName": "magic",
+              "nesting": 0
+            },
+            {
+              "id": 26,
+              "name": "mc_addons",
+              "shortName": "addons",
+              "nesting": 0
+            }
+          ],
+          "picture": 1361206,
+          "pictures": [
+            1369612,
+            1369614,
+            1369615,
+            1369616,
+            1369618,
+            1369619,
+            1369613,
+            1369617
+          ],
+          "lanName": "legendary-spellbooks",
+          "version": {
+            "id": 8013178,
+            "name": "legendary_spellbooks-1.20.1+forge-0.2.1",
+            "updateDate": 1777522861000,
+            "type": "beta",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "3b2b260f0d1346d0f72e8f63ff40abe9c92cc544",
+              "size": 332632,
+              "path": "mods/legendary_spellbooks-1.20.1%2Bforge-0.2.1.jar",
+              "url": "/mods/1478875/8013178/legendary_spellbooks-1.20.1%252Bforge-0.2.1.jar"
+            },
+            "installed": 0,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 1,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 16255,
+              "name": "Legendary Monsters",
+              "gameEntityId": 944035,
+              "dependencyType": "required",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 5958,
+              "name": "Iron's Spells 'n Spellbooks",
+              "gameEntityId": 855414,
+              "dependencyType": "required",
+              "available": false
+            }
+          ],
+          "lastGameVersion": {
+            "id": 46,
+            "name": "1.20.1"
+          },
+          "updated": 1777496400000,
+          "update": 1777496400000,
+          "downloadALL": 435,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 618298,
+          "name": "Sophisticated Core",
+          "author": "p3pp3rf1y",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-core",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 821151,
+          "pictures": [],
+          "lanName": "sophisticated-core",
+          "version": {
+            "id": 7984816,
+            "name": "sophisticatedcore-1.20.1-1.3.26.1759",
+            "updateDate": 1777153984000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "4bd34147a735d31e624b2cd7b9f490140198340b",
+              "size": 1438153,
+              "path": "mods/sophisticatedcore-1.20.1-1.3.26.1759.jar",
+              "url": "/mods/618298/7984816/sophisticatedcore-1.20.1-1.3.26.1759.jar"
+            },
+            "installed": 317,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              },
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 69,
+            "name": "26.1.2"
+          },
+          "updated": 1777410000000,
+          "update": 1777410000000,
+          "downloadALL": 3768861,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 899386,
+          "name": "Just Enough Breeding (JEBr)",
+          "author": "Christofmeg Christofmeg",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/justenoughbreeding",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 6,
+              "name": "map_information",
+              "shortName": "maps",
+              "nesting": 0
+            },
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            },
+            {
+              "id": 26,
+              "name": "mc_addons",
+              "shortName": "addons",
+              "nesting": 0
+            }
+          ],
+          "picture": 844310,
+          "pictures": [
+            515113,
+            515112,
+            515114
+          ],
+          "lanName": "justenoughbreeding",
+          "version": {
+            "id": 8017468,
+            "name": "justenoughbreeding-forge-1.20.1-3.0.0",
+            "updateDate": 1777585093000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "989efe403737ac42e68220d63e55c64479bc532b",
+              "size": 598230,
+              "path": "mods/justenoughbreeding-forge-1.20.1-3.0.0.jar",
+              "url": "/mods/899386/8017468/justenoughbreeding-forge-1.20.1-3.0.0.jar"
+            },
+            "installed": 0,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              },
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 2,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 6463,
+              "name": "Call of the Wild",
+              "gameEntityId": 715076,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 10008,
+              "name": "Recrafted Creatures",
+              "gameEntityId": 835564,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 5964,
+              "name": "YDM's Red Panda",
+              "gameEntityId": 623035,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 6116,
+              "name": "FrostRealm",
+              "gameEntityId": 479086,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 5962,
+              "name": "YDM's Fennec Fox",
+              "gameEntityId": 694325,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 2007,
+              "name": "Atmospheric",
+              "gameEntityId": 362393,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 5899,
+              "name": "Apple Cows",
+              "gameEntityId": 399492,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 4,
+              "name": "Just Enough Items (JEI)",
+              "gameEntityId": 238222,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 5730,
+              "name": "The Aether Redux",
+              "gameEntityId": 867237,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 6307,
+              "name": "Critters and Companions",
+              "gameEntityId": 574913,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 226,
+              "name": "The Twilight Forest",
+              "gameEntityId": 227639,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 1122,
+              "name": "Ice and Fire Dragons",
+              "gameEntityId": 264231,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 5910,
+              "name": "Ulterlands Worlds Apart",
+              "gameEntityId": 650094,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 5652,
+              "name": "Biome Makeover (Forge)",
+              "gameEntityId": 567709,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 5576,
+              "name": "Fish of Thieves",
+              "gameEntityId": 568372,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 7634,
+              "name": "Waddles",
+              "gameEntityId": 251767,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 2425,
+              "name": "Chilean Craft",
+              "gameEntityId": 344102,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 5907,
+              "name": "Sophisticated wolves",
+              "gameEntityId": 220495,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 1310,
+              "name": "Aquaculture 2",
+              "gameEntityId": 60028,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 7582,
+              "name": "Untamed Wilds",
+              "gameEntityId": 457252,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 13856,
+              "name": "Dracovita Farm Life",
+              "gameEntityId": 585764,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 490,
+              "name": "Quark",
+              "gameEntityId": 243121,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 5905,
+              "name": "Snow Pig [Forge]",
+              "gameEntityId": 410500,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 5903,
+              "name": "Lil' Wings",
+              "gameEntityId": 561277,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 4816,
+              "name": "Sullys Mod",
+              "gameEntityId": 386534,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 1564,
+              "name": "The Aether",
+              "gameEntityId": 255308,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 10010,
+              "name": "Winter Overhaul",
+              "gameEntityId": 564989,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 5901,
+              "name": "Duckling",
+              "gameEntityId": 597248,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 1050,
+              "name": "Catalogue",
+              "gameEntityId": 459701,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 1690,
+              "name": "TerraFirmaCraft",
+              "gameEntityId": 302973,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 6271,
+              "name": "Earth Mobs",
+              "gameEntityId": 913527,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 5900,
+              "name": "Caracal Mod (FabricForge)",
+              "gameEntityId": 486505,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 6117,
+              "name": "Kiwi boi",
+              "gameEntityId": 530472,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 10007,
+              "name": "Ambient Additions",
+              "gameEntityId": 531946,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 10009,
+              "name": "YDM's Ostrich",
+              "gameEntityId": 689562,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 5963,
+              "name": "YDM's Glare",
+              "gameEntityId": 589268,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 4811,
+              "name": "Creatures and Beasts",
+              "gameEntityId": 414401,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 1661,
+              "name": "Upgrade Aquatic",
+              "gameEntityId": 326895,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 1110,
+              "name": "ChocoCraft",
+              "gameEntityId": 225280,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 5909,
+              "name": "The Ducks",
+              "gameEntityId": 576073,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 4629,
+              "name": "Frozen Up",
+              "gameEntityId": 430652,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 6115,
+              "name": "Biome Backlog",
+              "gameEntityId": 665450,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 5334,
+              "name": "Friends&Foes (ForgeNeoForge)",
+              "gameEntityId": 602059,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 1531,
+              "name": "Blue Skies",
+              "gameEntityId": 312918,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 2670,
+              "name": "Neapolitan",
+              "gameEntityId": 382016,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 2490,
+              "name": "Environmental",
+              "gameEntityId": 388992,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 2004,
+              "name": "Buzzier Bees",
+              "gameEntityId": 355458,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 2003,
+              "name": "Autumnity",
+              "gameEntityId": 365045,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 5906,
+              "name": "Snuffles",
+              "gameEntityId": 556372,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 632,
+              "name": "Roughly Enough Items FabricForgeNeoForge (REI)",
+              "gameEntityId": 310111,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 5355,
+              "name": "Naturalist",
+              "gameEntityId": 627986,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 5726,
+              "name": "Deep Aether",
+              "gameEntityId": 852465,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 5455,
+              "name": "[Let's Do] Meadow",
+              "gameEntityId": 821483,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 6275,
+              "name": "Alex's Caves",
+              "gameEntityId": 924854,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 5904,
+              "name": "Marine Iguana",
+              "gameEntityId": 688475,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 4583,
+              "name": "Ecologics",
+              "gameEntityId": 570463,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 1665,
+              "name": "Alex's Mobs",
+              "gameEntityId": 426558,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 5902,
+              "name": "Greek Fantasy",
+              "gameEntityId": 413724,
+              "dependencyType": "optional",
+              "available": false
+            }
+          ],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1769893200000,
+          "update": 1769893200000,
+          "downloadALL": 64684,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
         }
       ],
       "resourcePacks": [],
