@@ -2506,98 +2506,6 @@
         },
         {
           "stateGameElement": "active",
-          "id": 964194,
-          "name": "ExtraQuests [FTB Quests]",
-          "author": "Vecoo",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/extraquests",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 15,
-              "name": "server_utility",
-              "shortName": "plugins",
-              "nesting": 0
-            },
-            {
-              "id": 26,
-              "name": "mc_addons",
-              "shortName": "addons",
-              "nesting": 0
-            }
-          ],
-          "picture": 1039245,
-          "pictures": [],
-          "lanName": "extraquests",
-          "version": {
-            "id": 7523526,
-            "name": "ExtraQuests-1.6.2-1.20.1-Forge",
-            "updateDate": 1769337161000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 46,
-                "name": "1.20.1"
-              }
-            ],
-            "metadata": {
-              "sha1": "6c7890a4208a24127ed38e60eeed223aad93690c",
-              "size": 50279,
-              "path": "mods/ExtraQuests-1.6.2-1.20.1-Forge.jar",
-              "url": "/mods/964194/7523526/ExtraQuests-1.6.2-1.20.1-Forge.jar"
-            },
-            "installed": 847,
-            "available": false,
-            "remove": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 1,
-                "name": "forge"
-              }
-            ]
-          },
-          "popularity": 1,
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [
-            {
-              "gameType": "mod",
-              "id": 12130,
-              "name": "SDM Shop [ForgeFabric]",
-              "gameEntityId": 948942,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 7863,
-              "name": "ExtraLib",
-              "gameEntityId": 1083780,
-              "dependencyType": "required",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 1298,
-              "name": "FTB Quests (NeoForge)",
-              "gameEntityId": 289412,
-              "dependencyType": "required",
-              "available": false
-            }
-          ],
-          "lastGameVersion": {
-            "id": 53,
-            "name": "1.21.1"
-          },
-          "updated": 1769288400000,
-          "update": 1769288400000,
-          "downloadALL": 9534,
-          "available": true,
-          "parser": true,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
           "id": 410295,
           "name": "Konkrete",
           "author": "keksuccino",
@@ -14550,7 +14458,7 @@
           "totalComments": 0
         },
         {
-          "stateGameElement": "active",
+          "stateGameElement": "no_active",
           "id": 222880,
           "name": "Thermal Foundation",
           "author": "TeamCoFH KingLemming Zeldo skyboy026 covers1624",
@@ -14628,7 +14536,7 @@
           "adult": false
         },
         {
-          "stateGameElement": "active",
+          "stateGameElement": "no_active",
           "id": 69163,
           "name": "Thermal Expansion",
           "author": "TeamCoFH KingLemming Zeldo skyboy026 covers1624",
@@ -14720,7 +14628,7 @@
           "adult": false
         },
         {
-          "stateGameElement": "active",
+          "stateGameElement": "no_active",
           "id": 227443,
           "name": "Thermal Dynamics",
           "author": "TeamCoFH KingLemming Zeldo skyboy026 RWTema TeamCoFH covers1624",
@@ -14798,7 +14706,7 @@
           "adult": false
         },
         {
-          "stateGameElement": "active",
+          "stateGameElement": "no_active",
           "id": 291737,
           "name": "Thermal Innovation",
           "author": "TeamCoFH Drullkus",
@@ -14876,7 +14784,7 @@
           "adult": false
         },
         {
-          "stateGameElement": "active",
+          "stateGameElement": "no_active",
           "id": 271835,
           "name": "Thermal Cultivation",
           "author": "TeamCoFH",
@@ -14960,7 +14868,7 @@
           "adult": false
         },
         {
-          "stateGameElement": "active",
+          "stateGameElement": "no_active",
           "id": 406959,
           "name": "Thermal Locomotion",
           "author": "teamcofh",
@@ -15032,7 +14940,7 @@
           "adult": false
         },
         {
-          "stateGameElement": "active",
+          "stateGameElement": "no_active",
           "id": 626708,
           "name": "Thermal Integration",
           "author": "teamcofh",
@@ -15104,7 +15012,7 @@
           "adult": false
         },
         {
-          "stateGameElement": "active",
+          "stateGameElement": "no_active",
           "id": 573674,
           "name": "Thermal Extra",
           "author": "mrthomas20121",
@@ -29769,7 +29677,7 @@
           "totalComments": 0
         },
         {
-          "stateGameElement": "active",
+          "stateGameElement": "no_active",
           "id": 1459526,
           "name": "Iron's Spells 'n Spellbooks Red Lightning Spells",
           "author": "WelcometotheWorldofDarkness",
@@ -34651,89 +34559,6 @@
         },
         {
           "stateGameElement": "active",
-          "id": 930207,
-          "name": "Noisium",
-          "author": "Steveplays28 Steveplays28",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/noisium",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 22,
-              "name": "mc_miscellaneous",
-              "shortName": "mixed",
-              "nesting": 0
-            },
-            {
-              "id": 15,
-              "name": "server_utility",
-              "shortName": "plugins",
-              "nesting": 0
-            },
-            {
-              "id": 29,
-              "name": "world_gen",
-              "shortName": "world",
-              "nesting": 0
-            }
-          ],
-          "picture": 800729,
-          "pictures": [
-            572072
-          ],
-          "lanName": "noisium",
-          "version": {
-            "id": 5650506,
-            "name": "noisium-forge-2.3.0+mc1.20-1.20.1",
-            "updateDate": 1724261051000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 46,
-                "name": "1.20.1"
-              },
-              {
-                "id": 45,
-                "name": "1.20"
-              }
-            ],
-            "metadata": {
-              "sha1": "7da1cdf00c0ae5cad31e17f765f6ea021c8ac808",
-              "size": 218152,
-              "path": "mods/noisium-forge-2.3.0+mc1.20-1.20.1.jar",
-              "url": "/mods/930207/5650506/noisium-forge-2.3.0+mc1.20-1.20.1.jar"
-            },
-            "installed": 61903,
-            "available": false,
-            "remove": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 5,
-                "name": "neoForge"
-              },
-              {
-                "id": 1,
-                "name": "forge"
-              }
-            ]
-          },
-          "popularity": 3,
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [],
-          "lastGameVersion": {
-            "id": 61,
-            "name": "1.21.6"
-          },
-          "updated": 1750712400000,
-          "update": 1750712400000,
-          "downloadALL": 157441,
-          "available": true,
-          "parser": true,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
           "id": 1247719,
           "name": "Block Factory's Biomes",
           "author": "blockfactorystudio",
@@ -36275,67 +36100,6 @@
         },
         {
           "stateGameElement": "active",
-          "id": 1083780,
-          "name": "ExtraLib",
-          "author": "Vecoo",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/extralib",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 7,
-              "name": "library_api",
-              "shortName": "api",
-              "nesting": 0
-            }
-          ],
-          "picture": 1068384,
-          "pictures": [],
-          "lanName": "extralib",
-          "version": {
-            "id": 7999792,
-            "name": "3.0.1-1.20.1-Forge",
-            "updateDate": 1777288495000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 46,
-                "name": "1.20.1"
-              }
-            ],
-            "metadata": {
-              "sha1": "054943c491f69eba91006a46290ecc36e673e494",
-              "size": 8113478,
-              "path": "mods/ExtraLib-3.0.1-1.20.1-Forge.jar",
-              "url": "/mods/1083780/7999792/ExtraLib-3.0.1-1.20.1-Forge.jar"
-            },
-            "installed": 44,
-            "available": false,
-            "remove": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 1,
-                "name": "forge"
-              }
-            ]
-          },
-          "popularity": 2,
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [],
-          "lastGameVersion": {
-            "id": 53,
-            "name": "1.21.1"
-          },
-          "updated": 1777237200000,
-          "update": 1777237200000,
-          "downloadALL": 44106,
-          "available": true,
-          "parser": true,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
           "id": 1478875,
           "name": "Legendary Spellbooks",
           "author": "higurashi86z",
@@ -37039,6 +36803,242 @@
           "parser": true,
           "totalComments": 0,
           "adult": false
+        },
+        {
+          "stateGameElement": "no_active",
+          "id": 930207,
+          "name": "Noisium",
+          "author": "Steveplays28 Steveplays28",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/noisium",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 22,
+              "name": "mc_miscellaneous",
+              "shortName": "mixed",
+              "nesting": 0
+            },
+            {
+              "id": 15,
+              "name": "server_utility",
+              "shortName": "plugins",
+              "nesting": 0
+            },
+            {
+              "id": 29,
+              "name": "world_gen",
+              "shortName": "world",
+              "nesting": 0
+            }
+          ],
+          "picture": 800729,
+          "pictures": [
+            572072
+          ],
+          "lanName": "noisium",
+          "version": {
+            "id": 5650506,
+            "name": "noisium-forge-2.3.0+mc1.20-1.20.1",
+            "updateDate": 1724261051000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              },
+              {
+                "id": 45,
+                "name": "1.20"
+              }
+            ],
+            "metadata": {
+              "sha1": "7da1cdf00c0ae5cad31e17f765f6ea021c8ac808",
+              "size": 218152,
+              "path": "mods/noisium-forge-2.3.0+mc1.20-1.20.1.jar",
+              "url": "/mods/930207/5650506/noisium-forge-2.3.0+mc1.20-1.20.1.jar"
+            },
+            "installed": 63681,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              },
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 3,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 61,
+            "name": "1.21.6"
+          },
+          "updated": 1750712400000,
+          "update": 1750712400000,
+          "downloadALL": 161311,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 964194,
+          "name": "ExtraQuests [FTB Quests]",
+          "author": "Vecoo",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/extraquests",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 15,
+              "name": "server_utility",
+              "shortName": "plugins",
+              "nesting": 0
+            },
+            {
+              "id": 26,
+              "name": "mc_addons",
+              "shortName": "addons",
+              "nesting": 0
+            }
+          ],
+          "picture": 1039245,
+          "pictures": [],
+          "lanName": "extraquests",
+          "version": {
+            "id": 8004487,
+            "name": "ExtraQuests-1.7.0-1.20.1-Forge",
+            "updateDate": 1777370053000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "cadd1bc7e68f248aafa5622ac7c8d5a18efc08be",
+              "size": 40767,
+              "path": "mods/ExtraQuests-1.7.0-1.20.1-Forge.jar",
+              "url": "/mods/964194/8004487/ExtraQuests-1.7.0-1.20.1-Forge.jar"
+            },
+            "installed": 33,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 2,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 12130,
+              "name": "SDM Shop [ForgeFabric]",
+              "gameEntityId": 948942,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 1298,
+              "name": "FTB Quests (NeoForge)",
+              "gameEntityId": 289412,
+              "dependencyType": "required",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 7863,
+              "name": "ExtraLib",
+              "gameEntityId": 1083780,
+              "dependencyType": "required",
+              "available": false
+            }
+          ],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1777323600000,
+          "update": 1777323600000,
+          "downloadALL": 10061,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1083780,
+          "name": "ExtraLib",
+          "author": "Vecoo",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/extralib",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 1068384,
+          "pictures": [],
+          "lanName": "extralib",
+          "version": {
+            "id": 8017235,
+            "name": "ExtraLib-3.0.2-1.20.1-Forge",
+            "updateDate": 1777581854000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "971aa3e015055706edea3b49d837a621796fafe4",
+              "size": 8113558,
+              "path": "mods/ExtraLib-3.0.2-1.20.1-Forge.jar",
+              "url": "/mods/1083780/8017235/ExtraLib-3.0.2-1.20.1-Forge.jar"
+            },
+            "installed": 0,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 2,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1777669200000,
+          "update": 1777669200000,
+          "downloadALL": 44223,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
         }
       ],
       "resourcePacks": [],
